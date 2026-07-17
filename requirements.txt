@@ -1,0 +1,6 @@
+gpiozero
+lgpio
+picamera2
+opencv-python
+pyaudio
+numpy
