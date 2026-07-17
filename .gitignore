@@ -1,6 +1,19 @@
 venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
 .env
 *.log
 recordings/
+
+# Runtime-generated data (kept out of version control; seed data below is tracked)
+data/*.db
+data/logs/
+data/test_audio/*.wav
+!data/test_audio/.gitkeep
+data/test_images/*.jpg
+data/test_images/*.png
+!data/test_images/.gitkeep
