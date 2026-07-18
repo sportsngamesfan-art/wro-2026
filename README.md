@@ -114,3 +114,107 @@ pytest tests/ -v                   # runs the test suite
 See `docs/PI5_SETUP.md` and run `./setup_pi.sh` on a fresh Raspberry Pi OS
 Bookworm install. No application code changes are needed — every hardware
 module switches from its mock to its real implementation automatically.
+
+## 🚀 Quick Start (Local Testing)
+
+```bash
+# Clone & setup
+git clone https://github.com/sportsngamesfan-art/wro-2026.git
+cd wro-2026
+git checkout claude/bhaasetu-robot-setup-q8d043
+
+# Create environment
+python -m venv .venv
+.venv\Scripts\activate.bat  # Windows
+source .venv/bin/activate  # Mac/Linux
+
+# Install & test
+pip install -r requirements.txt
+python -m src.main          # Run demo
+pytest tests/ -v            # Run 14 tests (all should PASS ✅)
+```
+
+## 📊 Current Status (Stage 1)
+
+✅ **Complete:**
+- 14 pytest tests passing
+- Mock hardware working on laptop
+- 502 audio files generated (gTTS)
+- 700+ Hindi-English phrases in CSV
+- Full database schema with Pydantic validation
+- All 6 autonomous decisions coded
+
+⏳ **Next (Stage 2 — when Pi arrives):**
+- Real hardware integration
+- Motor/sensor calibration
+- Test with actual Warli elders
+
+## 🎤 Audio Demo
+
+502 MP3 files in `audio/` folder organized by theme:
+- Greetings, Storytelling, Characters, Actions
+- Language & Culture, Endangered Languages
+- Emotions, Warli Culture, BhashaSetu Project
+
+Generated with: gTTS (Google Text-to-Speech)
+
+## 📁 File Structure
+src/              # Core modules (mock/real versions)
+├── main.py, audio.py, vision.py
+├── motion.py, sensors.py, navigation.py
+├── listening.py, translation.py, database.py
+└── logbook.py
+config/           # Centralized config
+├── pins.py (GPIO assignments)
+├── thresholds.py (Tuning parameters)
+└── metadata_schema.py (Database schema)
+tests/            # 14 pytest tests
+data/
+├── hindi_english_phrases_700.csv
+├── reference_vocabulary.txt
+└── audio/ (502 MP3 files)
+docs/
+├── ARCHITECTURE.md
+├── POWER_SAFETY.md
+├── PI5_SETUP.md
+└── FIELDWORK_ETHICS.md
+
+## 🧪 Testing
+
+```bash
+pytest tests/ -v              # All 14 tests
+pytest tests/test_audio_mock.py -v
+pytest tests/ --cov=src      # With coverage
+```
+
+## 🔌 Critical Pi 5 Notes
+
+- **Voltage Divider Required:** HC-SR04 ECHO needs 1k/2k divider (5V→3.3V)
+- **Separate Power Rails:** Motors and Pi must have separate buck converters
+- **gpiozero + lgpio:** NOT RPi.GPIO (Pi 5 uses RP1 chip)
+- **No PyAudio on Windows:** Sarvam API used instead for audio generation
+
+## 👥 Team Roles
+
+| Person | Responsibility |
+|--------|-----------------|
+| Riaan | audio.py, vision.py, listening.py, translation.py |
+| Ayansh | motion.py, sensors.py, config/pins.py |
+| Siddharth | logbook.py, database.py, docs/ |
+
+## 📞 GitHub & Collaboration
+
+**Repository:** https://github.com/sportsngamesfan-art/wro-2026
+
+**Branch:** `claude/bhaasetu-robot-setup-q8d043` (Stage 1 complete)
+
+Each team member:
+1. Clone repo
+2. Create feature branch: `git checkout -b feature/your-name`
+3. Code locally & test: `pytest tests/ -v`
+4. Push & make PR
+5. After review, merge to main
+
+---
+
+**Made with ❤️ for language preservation**
