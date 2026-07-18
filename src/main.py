@@ -15,7 +15,7 @@ from src.logbook import Logbook
 from src.navigation import Navigator
 from src.translation import estimate_novelty, translate_text
 from src.ui import get_screen
-from src.vision import FaceTracker, get_camera
+# from src.vision import FaceTracker, get_camera
 
 logger = Logbook("MAIN")
 
@@ -33,8 +33,8 @@ def run_demo() -> None:
         navigator.step()
     navigator.stop()
 
-    camera = get_camera()
-    face_tracker = FaceTracker()
+    # camera = get_camera()
+    # face_tracker = FaceTracker()
     frame = camera.capture_frame()
     face_tracker.detect_faces(frame)
     camera.close()
@@ -71,4 +71,9 @@ def run_demo() -> None:
 
 
 if __name__ == "__main__":
-    run_demo()
+    pass
+    # run_demo()
+# Test just translation
+from src.translation import translate_phrase
+result = translate_phrase("नमस्ते")
+print(f"Translation: {result}")
