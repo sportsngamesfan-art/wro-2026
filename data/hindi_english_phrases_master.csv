@@ -1,0 +1,845 @@
+﻿hindi_phrase,english_translation,category
+नमस्ते,Hello,Greetings
+नमस्कार,Greetings,Greetings
+सुप्रभात,Good morning,Greetings
+शुभ संध्या,Good evening,Greetings
+शुभ रात्रि,Good night,Greetings
+स्वागत है,Welcome,Greetings
+अलविदा,Goodbye,Greetings
+फिर मिलेंगे,See you again,Greetings
+धन्यवाद,Thank you,Greetings
+बहुत धन्यवाद,Thank you very much,Greetings
+कृपया,Please,Greetings
+क्षमा करें,Excuse me,Greetings
+माफ़ कीजिए,I am sorry,Greetings
+कोई बात नहीं,No problem,Greetings
+हाँ,Yes,Greetings
+नहीं,No,Greetings
+शायद,Maybe,Greetings
+ठीक है,Okay,Greetings
+क्या हाल है,How are you,Greetings
+मैं ठीक हूँ,I am fine,Greetings
+आप कैसे हैं,How are you formal,Greetings
+बहुत अच्छा,Very good,Greetings
+मुझे खुशी हुई,Nice to meet you,Greetings
+आपसे मिलकर अच्छा लगा,It was nice meeting you,Greetings
+मेरा नाम है,My name is,Greetings
+आपका नाम क्या है,What is your name,Greetings
+मैं भारत से हूँ,I am from India,Greetings
+आप कहाँ से हैं,Where are you from,Greetings
+मुझे हिंदी आती है,I know Hindi,Greetings
+मुझे थोड़ी हिंदी आती है,I know a little Hindi,Greetings
+धीरे बोलिए,Please speak slowly,Greetings
+फिर से कहिए,Please say again,Greetings
+मैं समझ गया,I understood,Greetings
+मैं नहीं समझा,I did not understand,Greetings
+एक,One,Numbers
+दो,Two,Numbers
+तीन,Three,Numbers
+चार,Four,Numbers
+पाँच,Five,Numbers
+छह,Six,Numbers
+सात,Seven,Numbers
+आठ,Eight,Numbers
+नौ,Nine,Numbers
+दस,Ten,Numbers
+ग्यारह,Eleven,Numbers
+बारह,Twelve,Numbers
+तेरह,Thirteen,Numbers
+चौदह,Fourteen,Numbers
+पंद्रह,Fifteen,Numbers
+सोलह,Sixteen,Numbers
+सत्रह,Seventeen,Numbers
+अठारह,Eighteen,Numbers
+उन्नीस,Nineteen,Numbers
+बीस,Twenty,Numbers
+पच्चीस,Twenty five,Numbers
+तीस,Thirty,Numbers
+पैंतीस,Thirty five,Numbers
+चालीस,Forty,Numbers
+पैंतालीस,Forty five,Numbers
+पचास,Fifty,Numbers
+साठ,Sixty,Numbers
+सत्तर,Seventy,Numbers
+अस्सी,Eighty,Numbers
+नब्बे,Ninety,Numbers
+सौ,One hundred,Numbers
+हज़ार,One thousand,Numbers
+लाख,One hundred thousand,Numbers
+करोड़,Ten million,Numbers
+पहला,First,Numbers
+दूसरा,Second,Numbers
+तीसरा,Third,Numbers
+आधा,Half,Numbers
+पूरा,Full,Numbers
+कुछ,Some,Numbers
+बहुत,Many,Numbers
+थोड़ा,A little,Numbers
+सब,All,Numbers
+कुछ नहीं,Nothing,Numbers
+सोमवार,Monday,Time
+मंगलवार,Tuesday,Time
+बुधवार,Wednesday,Time
+गुरुवार,Thursday,Time
+शुक्रवार,Friday,Time
+शनिवार,Saturday,Time
+रविवार,Sunday,Time
+आज,Today,Time
+कल,Tomorrow,Time
+बीता हुआ कल,Yesterday,Time
+परसों,Day after tomorrow,Time
+अभी,Now,Time
+बाद में,Later,Time
+जल्दी,Early,Time
+देर से,Late,Time
+सुबह,Morning,Time
+दोपहर,Noon,Time
+शाम,Evening,Time
+रात,Night,Time
+भोर,Dawn,Time
+आधी रात,Midnight,Time
+दिन,Day,Time
+सप्ताह,Week,Time
+महीना,Month,Time
+साल,Year,Time
+घंटा,Hour,Time
+मिनट,Minute,Time
+पल,Moment,Time
+समय,Time,Time
+समय क्या हुआ है,What time is it,Time
+गर्मी का मौसम,Summer season,Time
+सर्दी का मौसम,Winter season,Time
+बरसात का मौसम,Rainy season,Time
+वसंत ऋतु,Spring season,Time
+हर दिन,Every day,Time
+हर साल,Every year,Time
+कभी कभी,Sometimes,Time
+हमेशा,Always,Time
+कभी नहीं,Never,Time
+लाल,Red,Colors
+नीला,Blue,Colors
+पीला,Yellow,Colors
+हरा,Green,Colors
+काला,Black,Colors
+सफेद,White,Colors
+गुलाबी,Pink,Colors
+नारंगी,Orange color,Colors
+बैंगनी,Purple,Colors
+भूरा,Brown,Colors
+सुनहरा,Golden,Colors
+चाँदी जैसा,Silver,Colors
+गहरा रंग,Dark color,Colors
+हल्का रंग,Light color,Colors
+रंग बिरंगा,Colorful,Colors
+सिर,Head,Body
+बाल,Hair,Body
+आँख,Eye,Body
+कान,Ear,Body
+नाक,Nose,Body
+मुँह,Mouth,Body
+दाँत,Teeth,Body
+जीभ,Tongue,Body
+गला,Throat,Body
+गर्दन,Neck,Body
+कंधा,Shoulder,Body
+हाथ,Hand,Body
+उँगली,Finger,Body
+पेट,Stomach,Body
+पीठ,Back,Body
+पैर,Leg,Body
+घुटना,Knee,Body
+दिल,Heart,Body
+दिमाग,Brain,Body
+खून,Blood,Body
+हड्डी,Bone,Body
+त्वचा,Skin,Body
+आवाज़,Voice,Body
+साँस,Breath,Body
+मुस्कान,Smile,Body
+माता,Mother,Family
+पिता,Father,Family
+माँ,Mom,Family
+पापा,Dad,Family
+भाई,Brother,Family
+बहन,Sister,Family
+बड़ा भाई,Elder brother,Family
+छोटी बहन,Younger sister,Family
+दादा,Grandfather,Family
+दादी,Grandmother,Family
+नाना,Maternal grandfather,Family
+नानी,Maternal grandmother,Family
+बेटा,Son,Family
+बेटी,Daughter,Family
+पति,Husband,Family
+पत्नी,Wife,Family
+चाचा,Paternal uncle,Family
+चाची,Paternal aunt,Family
+मामा,Maternal uncle,Family
+मामी,Maternal aunt,Family
+भतीजा,Nephew,Family
+भतीजी,Niece,Family
+पोता,Grandson,Family
+पोती,Granddaughter,Family
+परिवार,Family,Family
+रिश्तेदार,Relatives,Family
+पड़ोसी,Neighbor,Family
+दोस्त,Friend,Family
+सबसे अच्छा दोस्त,Best friend,Family
+मेहमान,Guest,Family
+कुत्ता,Dog,Animals
+बिल्ली,Cat,Animals
+गाय,Cow,Animals
+भैंस,Buffalo,Animals
+बकरी,Goat,Animals
+भेड़,Sheep,Animals
+घोड़ा,Horse,Animals
+हाथी,Elephant,Animals
+शेर,Lion,Animals
+बाघ,Tiger,Animals
+बंदर,Monkey,Animals
+भालू,Bear,Animals
+हिरण,Deer,Animals
+लोमड़ी,Fox,Animals
+खरगोश,Rabbit,Animals
+चूहा,Mouse,Animals
+साँप,Snake,Animals
+मछली,Fish,Animals
+पक्षी,Bird,Animals
+कौआ,Crow,Animals
+तोता,Parrot,Animals
+मोर,Peacock,Animals
+कबूतर,Pigeon,Animals
+मुर्गी,Hen,Animals
+बत्तख,Duck,Animals
+उल्लू,Owl,Animals
+तितली,Butterfly,Animals
+मधुमक्खी,Honeybee,Animals
+चींटी,Ant,Animals
+मकड़ी,Spider,Animals
+मेंढक,Frog,Animals
+कछुआ,Turtle,Animals
+ऊँट,Camel,Animals
+गधा,Donkey,Animals
+जानवर,Animal,Animals
+खाना,Food,Food
+पानी,Water,Food
+दूध,Milk,Food
+चाय,Tea,Food
+कॉफी,Coffee,Food
+रोटी,Bread,Food
+चावल,Rice,Food
+दाल,Lentils,Food
+सब्जी,Vegetable,Food
+फल,Fruit,Food
+आम,Mango,Food
+केला,Banana,Food
+सेब,Apple,Food
+संतरा,Orange fruit,Food
+अंगूर,Grapes,Food
+अनार,Pomegranate,Food
+नारियल,Coconut,Food
+आलू,Potato,Food
+प्याज,Onion,Food
+टमाटर,Tomato,Food
+गाजर,Carrot,Food
+पालक,Spinach,Food
+मिर्च,Chili,Food
+नमक,Salt,Food
+चीनी,Sugar,Food
+घी,Clarified butter,Food
+तेल,Oil,Food
+मसाला,Spices,Food
+अदरक,Ginger,Food
+लहसुन,Garlic,Food
+हल्दी,Turmeric,Food
+शहद,Honey,Food
+दही,Yogurt,Food
+मक्खन,Butter,Food
+अंडा,Egg,Food
+मिठाई,Sweets,Food
+लड्डू,Laddu,Food
+खीर,Rice pudding,Food
+नाश्ता,Breakfast,Food
+दोपहर का खाना,Lunch,Food
+रात का खाना,Dinner,Food
+भूख लगी है,I am hungry,Food
+प्यास लगी है,I am thirsty,Food
+खाना बहुत स्वादिष्ट है,The food is delicious,Food
+खाना पकाना,To cook food,Food
+आकाश,Sky,Nature
+बादल,Cloud,Nature
+बारिश,Rain,Nature
+तूफान,Storm,Nature
+बिजली,Lightning,Nature
+गरज,Thunder,Nature
+इंद्रधनुष,Rainbow,Nature
+हवा,Wind,Nature
+गर्मी,Heat,Nature
+ठंड,Cold,Nature
+बर्फ,Snow,Nature
+कोहरा,Fog,Nature
+धूप,Sunlight,Nature
+छाया,Shadow,Nature
+सूरज,Sun,Nature
+चाँद,Moon,Nature
+तारे,Stars,Nature
+धरती,Earth,Nature
+आग,Fire,Nature
+मिट्टी,Soil,Nature
+नदी,River,Nature
+झरना,Waterfall,Nature
+तालाब,Pond,Nature
+झील,Lake,Nature
+समुद्र,Ocean,Nature
+लहर,Wave,Nature
+किनारा,Shore,Nature
+रेत,Sand,Nature
+पत्थर,Stone,Nature
+पहाड़,Mountain,Nature
+घाटी,Valley,Nature
+गुफा,Cave,Nature
+जंगल,Forest,Nature
+पेड़,Tree,Nature
+पत्ता,Leaf,Nature
+जड़,Root,Nature
+डाल,Branch,Nature
+फूल,Flower,Nature
+कमल,Lotus,Nature
+गुलाब,Rose,Nature
+गेंदा,Marigold,Nature
+चमेली,Jasmine,Nature
+घास,Grass,Nature
+बीज,Seed,Nature
+खेत,Field,Nature
+फसल,Crop,Nature
+गेहूँ,Wheat,Nature
+धान,Paddy,Nature
+प्रकृति,Nature,Nature
+घर,House,Places
+गाँव,Village,Places
+शहर,City,Places
+देश,Country,Places
+भारत,India,Places
+मुंबई,Mumbai,Places
+सड़क,Road,Places
+गली,Lane,Places
+बाज़ार,Market,Places
+दुकान,Shop,Places
+स्कूल,School,Places
+कॉलेज,College,Places
+पुस्तकालय,Library,Places
+अस्पताल,Hospital,Places
+मंदिर,Temple,Places
+मस्जिद,Mosque,Places
+गिरजाघर,Church,Places
+गुरुद्वारा,Gurudwara,Places
+स्टेशन,Station,Places
+हवाई अड्डा,Airport,Places
+पुल,Bridge,Places
+बगीचा,Garden,Places
+मैदान,Playground,Places
+कुआँ,Well,Places
+आँगन,Courtyard,Places
+रसोई,Kitchen,Places
+कमरा,Room,Places
+दरवाज़ा,Door,Places
+खिड़की,Window,Places
+छत,Roof,Places
+दीवार,Wall,Places
+सीढ़ी,Stairs,Places
+संग्रहालय,Museum,Places
+किला,Fort,Places
+महल,Palace,Places
+बिस्तर,Bed,Daily Life
+कुर्सी,Chair,Daily Life
+मेज़,Table,Daily Life
+दीपक,Lamp,Daily Life
+लालटेन,Lantern,Daily Life
+पीतल की लालटेन,Brass lantern,Daily Life
+मोमबत्ती,Candle,Daily Life
+दर्पण,Mirror,Daily Life
+घड़ी,Clock,Daily Life
+चाबी,Key,Daily Life
+ताला,Lock,Daily Life
+थैला,Bag,Daily Life
+बर्तन,Utensils,Daily Life
+मटका,Clay pot,Daily Life
+थाली,Plate,Daily Life
+कटोरी,Bowl,Daily Life
+गिलास,Glass,Daily Life
+चम्मच,Spoon,Daily Life
+चूल्हा,Stove,Daily Life
+झाड़ू,Broom,Daily Life
+रस्सी,Rope,Daily Life
+टोकरी,Basket,Daily Life
+कपड़े,Clothes,Daily Life
+साड़ी,Saree,Daily Life
+कुर्ता,Kurta,Daily Life
+धोती,Dhoti,Daily Life
+दुपट्टा,Scarf,Daily Life
+जूते,Shoes,Daily Life
+चप्पल,Slippers,Daily Life
+टोपी,Hat,Daily Life
+चश्मा,Spectacles,Daily Life
+छाता,Umbrella,Daily Life
+गहने,Jewelry,Daily Life
+चूड़ी,Bangle,Daily Life
+अंगूठी,Ring,Daily Life
+हार,Necklace,Daily Life
+किताब,Book,Daily Life
+कलम,Pen,Daily Life
+पेंसिल,Pencil,Daily Life
+कागज़,Paper,Daily Life
+चिट्ठी,Letter,Daily Life
+तस्वीर,Photo,Daily Life
+खिलौना,Toy,Daily Life
+गेंद,Ball,Daily Life
+पतंग,Kite,Daily Life
+साइकिल,Bicycle,Daily Life
+गाड़ी,Car,Daily Life
+बस,Bus,Daily Life
+रेलगाड़ी,Train,Daily Life
+नाव,Boat,Daily Life
+पैसा,Money,Daily Life
+काम,Work,Daily Life
+आराम,Rest,Daily Life
+नींद,Sleep,Daily Life
+सपना,Dream,Daily Life
+किसान,Farmer,Professions
+शिक्षक,Teacher,Professions
+डॉक्टर,Doctor,Professions
+नर्स,Nurse,Professions
+इंजीनियर,Engineer,Professions
+वैज्ञानिक,Scientist,Professions
+छात्र,Student,Professions
+लेखक,Writer,Professions
+कवि,Poet,Professions
+गायक,Singer,Professions
+नर्तक,Dancer,Professions
+कलाकार,Artist,Professions
+चित्रकार,Painter,Professions
+संगीतकार,Musician,Professions
+कहानीकार,Storyteller,Professions
+बढ़ई,Carpenter,Professions
+लोहार,Blacksmith,Professions
+कुम्हार,Potter,Professions
+बुनकर,Weaver,Professions
+दर्जी,Tailor,Professions
+मछुआरा,Fisherman,Professions
+चरवाहा,Shepherd,Professions
+व्यापारी,Merchant,Professions
+दुकानदार,Shopkeeper,Professions
+रसोइया,Cook,Professions
+माली,Gardener,Professions
+सिपाही,Soldier,Professions
+राजा,King,Professions
+रानी,Queen,Professions
+संत,Saint,Professions
+पुजारी,Priest,Professions
+विद्वान,Scholar,Professions
+नेता,Leader,Professions
+खिलाड़ी,Player,Professions
+आना,To come,Actions
+जाना,To go,Actions
+खाना खाना,To eat,Actions
+पीना,To drink,Actions
+सोना,To sleep,Actions
+जागना,To wake up,Actions
+उठना,To get up,Actions
+बैठना,To sit,Actions
+खड़ा होना,To stand,Actions
+चलना,To walk,Actions
+दौड़ना,To run,Actions
+रुकना,To stop,Actions
+कूदना,To jump,Actions
+तैरना,To swim,Actions
+उड़ना,To fly,Actions
+गिरना,To fall,Actions
+देखना,To see,Actions
+सुनना,To listen,Actions
+बोलना,To speak,Actions
+कहना,To say,Actions
+पूछना,To ask,Actions
+बताना,To tell,Actions
+पढ़ना,To read,Actions
+लिखना,To write,Actions
+सीखना,To learn,Actions
+सिखाना,To teach,Actions
+समझना,To understand,Actions
+सोचना,To think,Actions
+जानना,To know,Actions
+भूलना,To forget,Actions
+याद रखना,To remember,Actions
+खोजना,To search,Actions
+पाना,To find,Actions
+खोना,To lose,Actions
+देना,To give,Actions
+लेना,To take,Actions
+रखना,To keep,Actions
+उठाना,To lift,Actions
+खोलना,To open,Actions
+बंद करना,To close,Actions
+बनाना,To make,Actions
+तोड़ना,To break,Actions
+जोड़ना,To join,Actions
+काटना,To cut,Actions
+सिलना,To sew,Actions
+धोना,To wash,Actions
+साफ करना,To clean,Actions
+पकाना,To cook,Actions
+गाना गाना,To sing,Actions
+नाचना,To dance,Actions
+बजाना,To play music,Actions
+खेलना,To play,Actions
+हँसना,To laugh,Actions
+रोना,To cry,Actions
+मुस्कुराना,To smile,Actions
+प्यार करना,To love,Actions
+मदद करना,To help,Actions
+इंतज़ार करना,To wait,Actions
+मिलना,To meet,Actions
+बुलाना,To call,Actions
+भेजना,To send,Actions
+लाना,To bring,Actions
+ले जाना,To carry away,Actions
+खरीदना,To buy,Actions
+बेचना,To sell,Actions
+जीतना,To win,Actions
+हारना,To lose a game,Actions
+शुरू करना,To begin,Actions
+खत्म करना,To finish,Actions
+कोशिश करना,To try,Actions
+बदलना,To change,Actions
+बढ़ना,To grow,Actions
+जीना,To live,Actions
+बचाना,To save,Actions
+रक्षा करना,To protect,Actions
+बड़ा,Big,Describing
+छोटा,Small,Describing
+लंबा,Tall,Describing
+नाटा,Short,Describing
+मोटा,Fat,Describing
+पतला,Thin,Describing
+नया,New,Describing
+पुराना,Old thing,Describing
+जवान,Young,Describing
+बूढ़ा,Old person,Describing
+अच्छा,Good,Describing
+बुरा,Bad,Describing
+सुंदर,Beautiful,Describing
+बदसूरत,Ugly,Describing
+तेज़,Fast,Describing
+धीमा,Slow,Describing
+गरम,Hot,Describing
+ठंडा,Cold thing,Describing
+मीठा,Sweet,Describing
+कड़वा,Bitter,Describing
+खट्टा,Sour,Describing
+तीखा,Spicy,Describing
+नरम,Soft,Describing
+कठोर,Hard,Describing
+हल्का,Light weight,Describing
+भारी,Heavy,Describing
+साफ,Clean,Describing
+गंदा,Dirty,Describing
+गीला,Wet,Describing
+सूखा,Dry,Describing
+खाली,Empty,Describing
+पास,Near,Describing
+दूर,Far,Describing
+ऊँचा,High,Describing
+नीचा,Low,Describing
+गहरा,Deep,Describing
+चौड़ा,Wide,Describing
+सस्ता,Cheap,Describing
+महँगा,Expensive,Describing
+आसान,Easy,Describing
+मुश्किल,Difficult,Describing
+सही,Correct,Describing
+गलत,Wrong,Describing
+अमीर,Rich,Describing
+गरीब,Poor,Describing
+बहादुर,Brave,Describing
+डरपोक,Cowardly,Describing
+बुद्धिमान,Intelligent,Describing
+समझदार,Wise,Describing
+ईमानदार,Honest,Describing
+दयालु,Kind,Describing
+शांत,Quiet,Describing
+व्यस्त,Busy,Describing
+खास,Special,Describing
+अनोखा,Unique,Describing
+मशहूर,Famous,Describing
+जरूरी,Important,Describing
+खुश,Happy,Emotions
+दुखी,Sad,Emotions
+गुस्सा,Angry,Emotions
+डर,Fear,Emotions
+साहस,Courage,Emotions
+आशा,Hope,Emotions
+निराशा,Despair,Emotions
+गर्व,Pride,Emotions
+शर्म,Shame,Emotions
+प्रेम,Love,Emotions
+नफरत,Hatred,Emotions
+ईर्ष्या,Jealousy,Emotions
+संतोष,Satisfaction,Emotions
+शांति,Peace,Emotions
+चिंता,Worry,Emotions
+राहत,Relief,Emotions
+दर्द,Pain,Emotions
+आनंद,Joy,Emotions
+मज़ा,Fun,Emotions
+हैरानी,Surprise,Emotions
+अकेलापन,Loneliness,Emotions
+याद,Memory of someone,Emotions
+पछतावा,Regret,Emotions
+क्षमा,Forgiveness,Emotions
+कृतज्ञता,Gratitude,Emotions
+विश्वास,Trust,Emotions
+उत्साह,Enthusiasm,Emotions
+धैर्य,Patience,Emotions
+करुणा,Compassion,Emotions
+ममता,Motherly love,Emotions
+भाषा,Language,Language
+मातृभाषा,Mother tongue,Language
+बोली,Dialect,Language
+शब्द,Word,Language
+वाक्य,Sentence,Language
+अर्थ,Meaning,Language
+व्याकरण,Grammar,Language
+उच्चारण,Pronunciation,Language
+लिपि,Script,Language
+देवनागरी,Devanagari,Language
+अक्षर,Letter of alphabet,Language
+स्वर,Vowel,Language
+व्यंजन,Consonant,Language
+अनुवाद,Translation,Language
+कविता,Poem,Language
+दोहा,Couplet,Language
+कहावत,Proverb,Language
+मुहावरा,Idiom,Language
+पहेली,Riddle,Language
+गीत,Song,Language
+लोकगीत,Folk song,Language
+लोरी,Lullaby,Language
+संगीत,Music,Language
+ढोलक,Drum,Language
+बाँसुरी,Flute,Language
+तबला,Tabla,Language
+नृत्य,Dance form,Language
+कहानी,Story,Language
+लोककथा,Folktale,Language
+परी कथा,Fairy tale,Language
+महाकाव्य,Epic,Language
+रामायण,Ramayana,Language
+महाभारत,Mahabharata,Language
+पंचतंत्र,Panchatantra,Language
+परंपरा,Tradition,Language
+संस्कृति,Culture,Language
+विरासत,Heritage,Language
+रीति रिवाज,Customs,Language
+त्योहार,Festival,Language
+दीवाली,Diwali,Language
+होली,Holi,Language
+मेला,Fair,Language
+पूजा,Worship,Language
+आरती,Aarti,Language
+प्रार्थना,Prayer,Language
+आशीर्वाद,Blessing,Language
+इतिहास,History,Language
+पीढ़ी,Generation,Language
+पूर्वज,Ancestors,Language
+बुजुर्ग,Elders,Language
+ज्ञान,Knowledge,Language
+शिक्षा,Education,Language
+सीख,Lesson,Language
+भाषा सेतु,BhashaSetu,Preservation
+सेतु,Bridge of connection,Preservation
+रोबोट,Robot,Preservation
+यंत्र,Machine,Preservation
+कृत्रिम बुद्धि,Artificial intelligence,Preservation
+कंप्यूटर,Computer,Preservation
+प्रौद्योगिकी,Technology,Preservation
+कैमरा,Camera,Preservation
+माइक्रोफोन,Microphone,Preservation
+रिकॉर्डिंग,Recording,Preservation
+आवाज़ रिकॉर्ड करना,To record voice,Preservation
+मैं सुन रहा हूँ,I am listening,Preservation
+कृपया बोलिए,Please speak,Preservation
+कृपया दोहराइए,Please repeat,Preservation
+मुझे एक कहानी सुनाइए,Tell me a story,Preservation
+मुझे एक गीत सुनाइए,Sing me a song,Preservation
+आपकी आवाज़ सुरक्षित है,Your voice is saved,Preservation
+रिकॉर्डिंग शुरू,Recording started,Preservation
+रिकॉर्डिंग समाप्त,Recording finished,Preservation
+क्या आप थक गए हैं,Are you tired,Preservation
+आइए थोड़ा आराम करें,Let us rest a while,Preservation
+आपका बहुत धन्यवाद,Thank you so much,Preservation
+विलुप्त भाषा,Endangered language,Preservation
+विलुप्त हो रहा,Disappearing,Preservation
+संकट में,In danger,Preservation
+भाषा संरक्षण,Language preservation,Preservation
+बचाना ज़रूरी है,Saving is essential,Preservation
+जीवित रखना,To keep alive,Preservation
+दस्तावेज़,Document,Preservation
+संग्रह,Collection,Preservation
+अभिलेखागार,Archive,Preservation
+शोध,Research,Preservation
+साक्षात्कार,Interview,Preservation
+अनुमति,Permission,Preservation
+सहमति,Consent,Preservation
+सम्मान,Respect,Preservation
+गरिमा,Dignity,Preservation
+समुदाय,Community,Preservation
+वारली,Warli,Preservation
+आदिवासी,Tribal,Preservation
+वारली चित्रकला,Warli painting,Preservation
+त्रिभुज,Triangle,Preservation
+वृत्त,Circle,Preservation
+तारपा नृत्य,Tarpa dance,Preservation
+पालघर,Palghar,Preservation
+महाराष्ट्र,Maharashtra,Preservation
+भविष्य,Future,Preservation
+अतीत,Past,Preservation
+वर्तमान,Present,Preservation
+नई पीढ़ी,New generation,Preservation
+अगली पीढ़ी के लिए,For the next generation,Preservation
+आप कहाँ रहते हैं,Where do you live,Sentences
+आपकी उम्र क्या है,How old are you,Sentences
+आप क्या करते हैं,What do you do,Sentences
+आपको क्या पसंद है,What do you like,Sentences
+मुझे यह पसंद है,I like this,Sentences
+मुझे यह पसंद नहीं है,I do not like this,Sentences
+यह क्या है,What is this,Sentences
+वह क्या है,What is that,Sentences
+यह किसका है,Whose is this,Sentences
+यह कितने का है,How much is this,Sentences
+कितना समय लगेगा,How long will it take,Sentences
+रास्ता किधर है,Which way is the road,Sentences
+मुझे मदद चाहिए,I need help,Sentences
+क्या आप मेरी मदद करेंगे,Will you help me,Sentences
+मैं आपकी मदद करूँगा,I will help you,Sentences
+चिंता मत कीजिए,Do not worry,Sentences
+सब ठीक हो जाएगा,Everything will be fine,Sentences
+मुझे भारत से प्यार है,I love India,Sentences
+मुझे अपनी भाषा से प्यार है,I love my language,Sentences
+मुझे गर्व है,I am proud,Sentences
+यह बहुत सुंदर है,This is very beautiful,Sentences
+मौसम अच्छा है,The weather is nice,Sentences
+आज बारिश हो रही है,It is raining today,Sentences
+मैं स्कूल जाता हूँ,I go to school,Sentences
+मैं पढ़ाई करता हूँ,I am studying,Sentences
+मुझे खेलना पसंद है,I like to play,Sentences
+मुझे संगीत पसंद है,I like music,Sentences
+क्या आप गा सकते हैं,Can you sing,Sentences
+क्या आप नाच सकते हैं,Can you dance,Sentences
+मुझे कहानियाँ सुनना पसंद है,I love listening to stories,Sentences
+दादी कहानी सुनाती हैं,Grandmother tells stories,Sentences
+बच्चे खेल रहे हैं,The children are playing,Sentences
+पक्षी गा रहे हैं,The birds are singing,Sentences
+सूरज निकल रहा है,The sun is rising,Sentences
+चाँद चमक रहा है,The moon is shining,Sentences
+नदी बह रही है,The river is flowing,Sentences
+फूल खिल रहे हैं,The flowers are blooming,Sentences
+दीप जल रहा है,The lamp is burning,Sentences
+दरवाज़ा खुला है,The door is open,Sentences
+खाना तैयार है,The food is ready,Sentences
+अंदर आइए,Please come inside,Sentences
+बैठिए,Please sit down,Sentences
+पानी पीजिए,Please drink water,Sentences
+ध्यान से सुनिए,Listen carefully,Sentences
+धीरे चलिए,Walk slowly,Sentences
+जल्दी आइए,Come quickly,Sentences
+यहाँ आइए,Come here,Sentences
+वहाँ जाइए,Go there,Sentences
+रुकिए,Please stop,Sentences
+देखिए,Please look,Sentences
+सत्य बोलो,Speak the truth,Wisdom
+सत्यमेव जयते,Truth alone triumphs,Wisdom
+अतिथि देवो भव,The guest is like God,Wisdom
+विद्या धन है,Knowledge is wealth,Wisdom
+ज्ञान शक्ति है,Knowledge is power,Wisdom
+समय बलवान है,Time is powerful,Wisdom
+समय का मूल्य समझो,Value your time,Wisdom
+जीवन अनमोल है,Life is precious,Wisdom
+परिश्रम का फल मीठा होता है,The fruit of hard work is sweet,Wisdom
+धैर्य रखो,Be patient,Wisdom
+आशा मत छोड़ो,Do not lose hope,Wisdom
+दूसरों की मदद करो,Help others,Wisdom
+बड़ों का सम्मान करो,Respect your elders,Wisdom
+विनम्र रहो,Be humble,Wisdom
+क्षमा करना सीखो,Learn to forgive,Wisdom
+ईमानदारी सबसे अच्छी नीति है,Honesty is the best policy,Wisdom
+एकता में शक्ति है,There is strength in unity,Wisdom
+बूँद बूँद से सागर बनता है,Drop by drop makes an ocean,Wisdom
+जहाँ चाह वहाँ राह,Where there is a will there is a way,Wisdom
+अभ्यास से सब संभव है,Practice makes everything possible,Wisdom
+गिरकर उठना ही जीवन है,To fall and rise again is life,Wisdom
+मन के हारे हार है,Defeat begins in the mind,Wisdom
+अतीत से सीखो,Learn from the past,Wisdom
+भविष्य की ओर देखो,Look toward the future,Wisdom
+प्रकृति की रक्षा करो,Protect nature,Wisdom
+पेड़ लगाओ,Plant trees,Wisdom
+पानी बचाओ,Save water,Wisdom
+संस्कृति को जीवित रखो,Keep culture alive,Wisdom
+अपनी भाषा पर गर्व करो,Be proud of your language,Wisdom
+भाषा संस्कृति की आत्मा है,Language is the soul of culture,Wisdom
+हर भाषा अनमोल है,Every language is priceless,Wisdom
+शब्दों में शक्ति होती है,Words have power,Wisdom
+कहानियाँ हमें जोड़ती हैं,Stories connect us,Wisdom
+बुजुर्गों की बातें सुनो,Listen to the elders,Wisdom
+अगली पीढ़ी के लिए सोचो,Think of the next generation,Wisdom
+एक बार की बात है,Once upon a time,Stories
+पहाड़ों के बीच एक छोटा सा गाँव था,There was a small village among the mountains,Stories
+उस गाँव में एक बुज़ुर्ग महिला रहती थी,An elderly woman lived in that village,Stories
+वह अपनी पुरानी भाषा बोलती थी,She spoke her old language,Stories
+उसकी कहानियाँ बहुत सुंदर थीं,Her stories were very beautiful,Stories
+लेकिन अब कोई सुनने वाला नहीं था,But now there was no one to listen,Stories
+बच्चे शहर चले गए थे,The children had moved to the city,Stories
+उसकी भाषा धीरे धीरे खो रही थी,Her language was slowly being lost,Stories
+एक दिन एक छोटा रोबोट गाँव आया,One day a small robot came to the village,Stories
+उसका नाम भाषा सेतु था,Its name was BhashaSetu,Stories
+रोबोट ने कहा मुझे एक कहानी सुनाइए,The robot said tell me a story,Stories
+महिला मुस्कुराई और बोलने लगी,The woman smiled and began to speak,Stories
+रोबोट ने हर शब्द रिकॉर्ड किया,The robot recorded every word,Stories
+अब उसकी कहानियाँ हमेशा जीवित रहेंगी,Now her stories will live forever,Stories
+भाषा बच गई और गाँव खुश हुआ,The language was saved and the village rejoiced,Stories
+महाराष्ट्र के जंगलों में वारली लोग रहते हैं,The Warli people live in the forests of Maharashtra,Stories
+वे मिट्टी के घरों की दीवारों पर चित्र बनाते हैं,They paint pictures on the walls of mud houses,Stories
+सफेद रंग से त्रिभुज और वृत्त बनते हैं,Triangles and circles are made with white color,Stories
+हर चित्र एक कहानी कहता है,Every painting tells a story,Stories
+एक युवा लड़की ने अपनी दादी से पूछा,A young girl asked her grandmother,Stories
+ये चित्र क्या कहते हैं,What do these paintings say,Stories
+दादी ने कहा ये हमारे पूर्वजों की आवाज़ हैं,Grandmother said these are the voices of our ancestors,Stories
+ये फसल और बारिश की कहानियाँ हैं,These are stories of harvest and rain,Stories
+ये तारपा नृत्य की खुशी दिखाते हैं,They show the joy of the Tarpa dance,Stories
+लड़की ने चित्र बनाना सीखा,The girl learned to paint,Stories
+उसने अपने चित्रों में नई कहानियाँ जोड़ीं,She added new stories to her paintings,Stories
+परंपरा एक पीढ़ी से दूसरी पीढ़ी तक चली,The tradition passed from one generation to the next,Stories
+कला कभी नहीं मरती,Art never dies,Stories
+एक गाँव के पास एक सुंदर नदी बहती थी,A beautiful river flowed near a village,Stories
+गाँव के लोग नदी से पानी लेते थे,The village people took water from the river,Stories
+किसान अपने खेतों को सींचते थे,The farmers watered their fields,Stories
+बच्चे नदी के किनारे खेलते थे,The children played by the riverbank,Stories
+एक साल बारिश नहीं हुई,One year it did not rain,Stories
+नदी सूखने लगी,The river began to dry,Stories
+गाँव के बुज़ुर्ग ने सबको बुलाया,The village elder called everyone,Stories
+उन्होंने कहा हमें मिलकर काम करना होगा,He said we must work together,Stories
+सबने मिलकर तालाब खोदा,Everyone dug a pond together,Stories
+सबने पेड़ लगाए,Everyone planted trees,Stories
+अगले साल खूब बारिश हुई,The next year it rained a lot,Stories
+नदी फिर से बहने लगी,The river began to flow again,Stories
+तीन दोस्तों ने एक रोबोट बनाया,Three friends built a robot,Stories
+रोबोट का आकार एक पीतल की लालटेन जैसा था,The robot was shaped like a brass lantern,Stories
+उसका काम था भाषाओं को बचाना,Its job was to save languages,Stories
+रोबोट गाँव गाँव घूमता था,The robot traveled from village to village,Stories
+वह बुज़ुर्गों के पास जाकर रुकता था,It would stop near the elders,Stories
+वह कहता था नमस्ते मैं सुन रहा हूँ,It would say hello I am listening,Stories
+लोग उसे अपनी कहानियाँ सुनाते थे,People told it their stories,Stories
+वह गीत और लोरियाँ रिकॉर्ड करता था,It recorded songs and lullabies,Stories
+जब कोई थक जाता तो वह कहता,When someone got tired it would say,Stories
+धीरे धीरे उसने सैकड़ों आवाज़ें इकट्ठी कीं,Slowly it collected hundreds of voices,Stories
+हर आवाज़ एक खज़ाना थी,Every voice was a treasure,Stories
+बच्चों ने उन आवाज़ों से अपनी भाषा सीखी,The children learned their language from those voices,Stories
+इस तरह भाषा सेतु ने अतीत और भविष्य को जोड़ा,In this way BhashaSetu connected the past and the future,Stories
