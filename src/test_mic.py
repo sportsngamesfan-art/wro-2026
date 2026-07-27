@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
-import time, os, csv, json, hashlib
+import asyncio, time, os, csv, threading
 from datetime import datetime
 import numpy as np
 import sounddevice as sd
 from scipy.io.wavfile import write, read
 from sarvamai import SarvamAI
 from sarvamai.play import save
+from googletrans import Translator
 
 key = None
 with open('.env', 'r', encoding='utf-8') as f:
@@ -16,36 +17,15 @@ client = SarvamAI(api_subscription_key=key)
 
 SAMPLERATE = 16000
 
-# name, sarvam translate code, sarvam TTS language code
 ALL_LANGS = [
-    ("English",  "en-IN", "en-IN"),
-    ("Hindi",    "hi-IN", "hi-IN"),
-    ("Tamil",    "ta-IN", "ta-IN"),
-    ("Odia",     "od-IN", "od-IN"),
-    ("Punjabi",  "pa-IN", "pa-IN"),
+    ("English",  "en", "en-IN"),
+    ("Hindi",    "hi", "hi-IN"),
+    ("Tamil",    "ta", "ta-IN"),
+    ("Sanskrit", "sa", "hi-IN"),
+    ("Odia",     "or", "od-IN"),
+    ("Punjabi",  "pa", "pa-IN"),
 ]
 
-# ---- Translation cache (so repeats don't call Mayura again) ----
-TRANS_CACHE_FILE = "data/translation_cache.json"
-
-def load_trans_cache():
-    if os.path.exists(TRANS_CACHE_FILE):
-        with open(TRANS_CACHE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
-
-def save_trans_cache(cache):
-    os.makedirs("data", exist_ok=True)
-    with open(TRANS_CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2)
-
-trans_cache = load_trans_cache()
-
-def key_for(text, dest):
-    # unique key from original text + target language
-    return f"{dest}::{text.strip().lower()}"
-
-# ---- helpers ----
 def choose_languages():
     print("\nWhich language(s) do you want the translation in?")
     for i, (name, _, _) in enumerate(ALL_LANGS, 1):
@@ -76,16 +56,43 @@ def record(max_duration):
     os.makedirs("recordings", exist_ok=True)
     stamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     filename = f"recordings/{stamp}.wav"
+    
     print("\nGet ready...")
     for n in (3, 2, 1):
         print(f"  {n}...")
         time.sleep(0.7)
-    print(f"🎤 SPEAK NOW ({max_duration}s)!")
-    audio = sd.rec(int(max_duration * SAMPLERATE), samplerate=SAMPLERATE, channels=1, dtype='int16')
-    sd.wait()
-    write(filename, SAMPLERATE, audio)
-    volume = np.abs(audio).mean()
-    print(f"✅ Recorded and saved: {filename}  (volume {volume:.0f})")
+    
+    print(f"🎤 SPEAK NOW (press Enter to stop, max {max_duration}s)!")
+    
+    max_samples = int(max_duration * SAMPLERATE)
+    audio_data = []
+    stop_recording = [False]
+    
+    def listen_for_stop():
+        input()
+        stop_recording[0] = True
+    
+    listener = threading.Thread(target=listen_for_stop, daemon=True)
+    listener.start()
+    
+    start = time.time()
+    while time.time() - start < max_duration and not stop_recording[0]:
+        chunk = sd.rec(int(0.1 * SAMPLERATE), samplerate=SAMPLERATE, channels=1, dtype='int16')
+        sd.wait()
+        audio_data.append(chunk)
+        elapsed = time.time() - start
+        print(f"  Recording... {elapsed:.1f}s", end='\r')
+    
+    print(f"\n✅ Recording stopped after {time.time() - start:.1f}s")
+    
+    if audio_data:
+        audio = np.concatenate(audio_data)
+    else:
+        audio = np.array([], dtype='int16')
+    
+    write(filename, SAMPLERATE, audio.astype('int16'))
+    volume = np.abs(audio).mean() if len(audio) > 0 else 0
+    print(f"✅ Saved: {filename}  (volume {volume:.0f})")
     return filename, volume
 
 def transcribe(filename):
@@ -95,43 +102,30 @@ def transcribe(filename):
         )
     return resp.transcript, resp.language_code
 
-def translate(text, dest):
-    # Check cache first - no API call if we already have it
-    k = key_for(text, dest)
-    if k in trans_cache:
-        print("    (translation from cache, no credits)")
-        return trans_cache[k]
-    resp = client.text.translate(
-        input=text, source_language_code="auto",
-        target_language_code=dest, model="mayura:v1"
-    )
-    result = resp.translated_text
-    trans_cache[k] = result
-    save_trans_cache(trans_cache)
-    print("    (new translation from Sarvam)")
-    return result
+async def translate(text, src, dest):
+    t = Translator()
+    r = await t.translate(text, src=src, dest=dest)
+    return r.text
 
-def audio_cache_name(text, lang_code):
-    # short stable hash so filenames don't get huge or clash
-    h = hashlib.md5(text.strip().lower().encode("utf-8")).hexdigest()[:12]
-    return f"tts_cache/{lang_code}_{h}.wav"
-
-def speak(text, sarvam_lang):
-    cache_file = audio_cache_name(text, sarvam_lang)
+def speak(text, sarvam_lang, lang_code):
+    safe_text = "".join(c for c in text if c.isalnum() or c in " _-").strip().replace(" ", "_")
+    cache_file = f"tts_cache/{lang_code}_{safe_text}.wav"
     os.makedirs("tts_cache", exist_ok=True)
+
     if os.path.exists(cache_file):
-        print("    (audio from cache, no credits)")
+        print("    (using saved audio, no credits used)")
         rate, data = read(cache_file)
         sd.play(data, rate)
         sd.wait()
         return
+
     try:
         resp = client.text_to_speech.convert(
             text=text, target_language_code=sarvam_lang,
             model="bulbul:v3", speaker="priya"
         )
         save(resp, cache_file)
-        print("    (new audio from Sarvam)")
+        print("    (new audio from Sarvam, saved for next time)")
         rate, data = read(cache_file)
         sd.play(data, rate)
         sd.wait()
@@ -145,13 +139,14 @@ def log_interaction(audio_file, detected_lang, original_text, translations):
         w = csv.writer(f)
         if not file_exists:
             w.writerow(["timestamp", "audio_file", "detected_language", "original_text",
-                        "english", "hindi", "tamil", "odia", "punjabi"])
+                        "english", "hindi", "tamil", "sanskrit", "odia", "punjabi"])
         w.writerow([
             datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             audio_file, detected_lang, original_text,
             translations.get("English", ""),
             translations.get("Hindi", ""),
             translations.get("Tamil", ""),
+            translations.get("Sanskrit", ""),
             translations.get("Odia", ""),
             translations.get("Punjabi", ""),
         ])
@@ -161,12 +156,14 @@ def main():
     chosen = choose_languages()
     max_duration = choose_duration()
     audio_file, vol = record(max_duration)
+    
     if vol < 50:
         print("\n⚠️ Too quiet — try again, speak louder/closer.")
         return
 
     print("Transcribing + detecting language...")
     text, lang = transcribe(audio_file)
+    src = lang.split('-')[0] if lang else 'auto'
     print(f"\nDetected language: {lang}")
     print(f"You said: {text}\n")
 
@@ -178,17 +175,14 @@ def main():
     print("\nTranslations:")
     print("-" * 45)
     translations = {}
-    for name, translate_code, sarvam_lang in chosen:
-        if translate_code == lang:
+    for name, code, sarvam_lang in chosen:
+        if code == src:
             translations[name] = text
             continue
-        try:
-            translated = translate(text, translate_code)
-        except Exception as e:
-            translated = f"[translate error: {e}]"
+        translated = asyncio.run(translate(text, src, code))
         translations[name] = translated
         print(f"  {name:10}: {translated}")
-        speak(translated, sarvam_lang)
+        speak(translated, sarvam_lang, code)
 
     print("-" * 45)
     log_interaction(audio_file, lang, text, translations)
