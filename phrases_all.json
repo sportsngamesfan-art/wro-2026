@@ -1,0 +1,5910 @@
+[
+  {
+    "h": "नमस्ते",
+    "e": "Hello",
+    "c": "Greetings",
+    "s": "hello",
+    "sa": "Hello"
+  },
+  {
+    "h": "नमस्कार",
+    "e": "Greetings",
+    "c": "Greetings",
+    "s": "greetings",
+    "sa": "Greetings"
+  },
+  {
+    "h": "सुप्रभात",
+    "e": "Good morning",
+    "c": "Greetings",
+    "s": "good_morning",
+    "sa": "Good morning"
+  },
+  {
+    "h": "शुभ संध्या",
+    "e": "Good evening",
+    "c": "Greetings",
+    "s": "good_evening",
+    "sa": "Good evening"
+  },
+  {
+    "h": "शुभ रात्रि",
+    "e": "Good night",
+    "c": "Greetings",
+    "s": "good_night",
+    "sa": "Good night"
+  },
+  {
+    "h": "स्वागत है",
+    "e": "Welcome",
+    "c": "Greetings",
+    "s": "welcome",
+    "sa": "Welcome"
+  },
+  {
+    "h": "अलविदा",
+    "e": "Goodbye",
+    "c": "Greetings",
+    "s": "goodbye",
+    "sa": "Goodbye"
+  },
+  {
+    "h": "फिर मिलेंगे",
+    "e": "See you again",
+    "c": "Greetings",
+    "s": "see_you_again",
+    "sa": "See you again"
+  },
+  {
+    "h": "धन्यवाद",
+    "e": "Thank you",
+    "c": "Greetings",
+    "s": "thank_you",
+    "sa": "Thank you"
+  },
+  {
+    "h": "बहुत धन्यवाद",
+    "e": "Thank you very much",
+    "c": "Greetings",
+    "s": "thank_you_very_much",
+    "sa": "Thank you very much"
+  },
+  {
+    "h": "कृपया",
+    "e": "Please",
+    "c": "Greetings",
+    "s": "please",
+    "sa": "Please"
+  },
+  {
+    "h": "क्षमा करें",
+    "e": "Excuse me",
+    "c": "Greetings",
+    "s": "excuse_me",
+    "sa": "Excuse me"
+  },
+  {
+    "h": "माफ़ कीजिए",
+    "e": "I am sorry",
+    "c": "Greetings",
+    "s": "i_am_sorry",
+    "sa": "I am sorry"
+  },
+  {
+    "h": "कोई बात नहीं",
+    "e": "No problem",
+    "c": "Greetings",
+    "s": "no_problem",
+    "sa": "No problem"
+  },
+  {
+    "h": "हाँ",
+    "e": "Yes",
+    "c": "Greetings",
+    "s": "yes",
+    "sa": "Yes"
+  },
+  {
+    "h": "नहीं",
+    "e": "No",
+    "c": "Greetings",
+    "s": "no",
+    "sa": "No"
+  },
+  {
+    "h": "शायद",
+    "e": "Maybe",
+    "c": "Greetings",
+    "s": "maybe",
+    "sa": "Maybe"
+  },
+  {
+    "h": "ठीक है",
+    "e": "Okay",
+    "c": "Greetings",
+    "s": "okay",
+    "sa": "Okay"
+  },
+  {
+    "h": "क्या हाल है",
+    "e": "How are you",
+    "c": "Greetings",
+    "s": "how_are_you",
+    "sa": "How are you"
+  },
+  {
+    "h": "मैं ठीक हूँ",
+    "e": "I am fine",
+    "c": "Greetings",
+    "s": "i_am_fine",
+    "sa": "I am fine"
+  },
+  {
+    "h": "आप कैसे हैं",
+    "e": "How are you formal",
+    "c": "Greetings",
+    "s": "how_are_you_formal",
+    "sa": "How are you formal"
+  },
+  {
+    "h": "बहुत अच्छा",
+    "e": "Very good",
+    "c": "Greetings",
+    "s": "very_good",
+    "sa": "Very good"
+  },
+  {
+    "h": "मुझे खुशी हुई",
+    "e": "Nice to meet you",
+    "c": "Greetings",
+    "s": "nice_to_meet_you",
+    "sa": "Nice to meet you"
+  },
+  {
+    "h": "आपसे मिलकर अच्छा लगा",
+    "e": "It was nice meeting you",
+    "c": "Greetings",
+    "s": "it_was_nice_meeting_you",
+    "sa": "It was nice meeting you"
+  },
+  {
+    "h": "मेरा नाम है",
+    "e": "My name is",
+    "c": "Greetings",
+    "s": "my_name_is",
+    "sa": "My name is"
+  },
+  {
+    "h": "आपका नाम क्या है",
+    "e": "What is your name",
+    "c": "Greetings",
+    "s": "what_is_your_name",
+    "sa": "What is your name"
+  },
+  {
+    "h": "मैं भारत से हूँ",
+    "e": "I am from India",
+    "c": "Greetings",
+    "s": "i_am_from_india",
+    "sa": "I am from India"
+  },
+  {
+    "h": "आप कहाँ से हैं",
+    "e": "Where are you from",
+    "c": "Greetings",
+    "s": "where_are_you_from",
+    "sa": "Where are you from"
+  },
+  {
+    "h": "मुझे हिंदी आती है",
+    "e": "I know Hindi",
+    "c": "Greetings",
+    "s": "i_know_hindi",
+    "sa": "I know Hindi"
+  },
+  {
+    "h": "मुझे थोड़ी हिंदी आती है",
+    "e": "I know a little Hindi",
+    "c": "Greetings",
+    "s": "i_know_a_little_hindi",
+    "sa": "I know a little Hindi"
+  },
+  {
+    "h": "धीरे बोलिए",
+    "e": "Please speak slowly",
+    "c": "Greetings",
+    "s": "please_speak_slowly",
+    "sa": "Please speak slowly"
+  },
+  {
+    "h": "फिर से कहिए",
+    "e": "Please say again",
+    "c": "Greetings",
+    "s": "please_say_again",
+    "sa": "Please say again"
+  },
+  {
+    "h": "मैं समझ गया",
+    "e": "I understood",
+    "c": "Greetings",
+    "s": "i_understood",
+    "sa": "I understood"
+  },
+  {
+    "h": "मैं नहीं समझा",
+    "e": "I did not understand",
+    "c": "Greetings",
+    "s": "i_did_not_understand",
+    "sa": "I did not understand"
+  },
+  {
+    "h": "एक",
+    "e": "One",
+    "c": "Numbers",
+    "s": "one",
+    "sa": "One"
+  },
+  {
+    "h": "दो",
+    "e": "Two",
+    "c": "Numbers",
+    "s": "two",
+    "sa": "Two"
+  },
+  {
+    "h": "तीन",
+    "e": "Three",
+    "c": "Numbers",
+    "s": "three",
+    "sa": "Three"
+  },
+  {
+    "h": "चार",
+    "e": "Four",
+    "c": "Numbers",
+    "s": "four",
+    "sa": "Four"
+  },
+  {
+    "h": "पाँच",
+    "e": "Five",
+    "c": "Numbers",
+    "s": "five",
+    "sa": "Five"
+  },
+  {
+    "h": "छह",
+    "e": "Six",
+    "c": "Numbers",
+    "s": "six",
+    "sa": "Six"
+  },
+  {
+    "h": "सात",
+    "e": "Seven",
+    "c": "Numbers",
+    "s": "seven",
+    "sa": "Seven"
+  },
+  {
+    "h": "आठ",
+    "e": "Eight",
+    "c": "Numbers",
+    "s": "eight",
+    "sa": "Eight"
+  },
+  {
+    "h": "नौ",
+    "e": "Nine",
+    "c": "Numbers",
+    "s": "nine",
+    "sa": "Nine"
+  },
+  {
+    "h": "दस",
+    "e": "Ten",
+    "c": "Numbers",
+    "s": "ten",
+    "sa": "Ten"
+  },
+  {
+    "h": "ग्यारह",
+    "e": "Eleven",
+    "c": "Numbers",
+    "s": "eleven",
+    "sa": "Eleven"
+  },
+  {
+    "h": "बारह",
+    "e": "Twelve",
+    "c": "Numbers",
+    "s": "twelve",
+    "sa": "Twelve"
+  },
+  {
+    "h": "तेरह",
+    "e": "Thirteen",
+    "c": "Numbers",
+    "s": "thirteen",
+    "sa": "Thirteen"
+  },
+  {
+    "h": "चौदह",
+    "e": "Fourteen",
+    "c": "Numbers",
+    "s": "fourteen",
+    "sa": "Fourteen"
+  },
+  {
+    "h": "पंद्रह",
+    "e": "Fifteen",
+    "c": "Numbers",
+    "s": "fifteen",
+    "sa": "Fifteen"
+  },
+  {
+    "h": "सोलह",
+    "e": "Sixteen",
+    "c": "Numbers",
+    "s": "sixteen",
+    "sa": "Sixteen"
+  },
+  {
+    "h": "सत्रह",
+    "e": "Seventeen",
+    "c": "Numbers",
+    "s": "seventeen",
+    "sa": "Seventeen"
+  },
+  {
+    "h": "अठारह",
+    "e": "Eighteen",
+    "c": "Numbers",
+    "s": "eighteen",
+    "sa": "Eighteen"
+  },
+  {
+    "h": "उन्नीस",
+    "e": "Nineteen",
+    "c": "Numbers",
+    "s": "nineteen",
+    "sa": "Nineteen"
+  },
+  {
+    "h": "बीस",
+    "e": "Twenty",
+    "c": "Numbers",
+    "s": "twenty",
+    "sa": "Twenty"
+  },
+  {
+    "h": "पच्चीस",
+    "e": "Twenty five",
+    "c": "Numbers",
+    "s": "twenty_five",
+    "sa": "Twenty five"
+  },
+  {
+    "h": "तीस",
+    "e": "Thirty",
+    "c": "Numbers",
+    "s": "thirty",
+    "sa": "Thirty"
+  },
+  {
+    "h": "पैंतीस",
+    "e": "Thirty five",
+    "c": "Numbers",
+    "s": "thirty_five",
+    "sa": "Thirty five"
+  },
+  {
+    "h": "चालीस",
+    "e": "Forty",
+    "c": "Numbers",
+    "s": "forty",
+    "sa": "Forty"
+  },
+  {
+    "h": "पैंतालीस",
+    "e": "Forty five",
+    "c": "Numbers",
+    "s": "forty_five",
+    "sa": "Forty five"
+  },
+  {
+    "h": "पचास",
+    "e": "Fifty",
+    "c": "Numbers",
+    "s": "fifty",
+    "sa": "Fifty"
+  },
+  {
+    "h": "साठ",
+    "e": "Sixty",
+    "c": "Numbers",
+    "s": "sixty",
+    "sa": "Sixty"
+  },
+  {
+    "h": "सत्तर",
+    "e": "Seventy",
+    "c": "Numbers",
+    "s": "seventy",
+    "sa": "Seventy"
+  },
+  {
+    "h": "अस्सी",
+    "e": "Eighty",
+    "c": "Numbers",
+    "s": "eighty",
+    "sa": "Eighty"
+  },
+  {
+    "h": "नब्बे",
+    "e": "Ninety",
+    "c": "Numbers",
+    "s": "ninety",
+    "sa": "Ninety"
+  },
+  {
+    "h": "सौ",
+    "e": "One hundred",
+    "c": "Numbers",
+    "s": "one_hundred",
+    "sa": "One hundred"
+  },
+  {
+    "h": "हज़ार",
+    "e": "One thousand",
+    "c": "Numbers",
+    "s": "one_thousand",
+    "sa": "One thousand"
+  },
+  {
+    "h": "लाख",
+    "e": "One hundred thousand",
+    "c": "Numbers",
+    "s": "one_hundred_thousand",
+    "sa": "One hundred thousand"
+  },
+  {
+    "h": "करोड़",
+    "e": "Ten million",
+    "c": "Numbers",
+    "s": "ten_million",
+    "sa": "Ten million"
+  },
+  {
+    "h": "पहला",
+    "e": "First",
+    "c": "Numbers",
+    "s": "first",
+    "sa": "First"
+  },
+  {
+    "h": "दूसरा",
+    "e": "Second",
+    "c": "Numbers",
+    "s": "second",
+    "sa": "Second"
+  },
+  {
+    "h": "तीसरा",
+    "e": "Third",
+    "c": "Numbers",
+    "s": "third",
+    "sa": "Third"
+  },
+  {
+    "h": "आधा",
+    "e": "Half",
+    "c": "Numbers",
+    "s": "half",
+    "sa": "Half"
+  },
+  {
+    "h": "पूरा",
+    "e": "Full",
+    "c": "Numbers",
+    "s": "full",
+    "sa": "Full"
+  },
+  {
+    "h": "कुछ",
+    "e": "Some",
+    "c": "Numbers",
+    "s": "some",
+    "sa": "Some"
+  },
+  {
+    "h": "बहुत",
+    "e": "Many",
+    "c": "Numbers",
+    "s": "many",
+    "sa": "Many"
+  },
+  {
+    "h": "थोड़ा",
+    "e": "A little",
+    "c": "Numbers",
+    "s": "a_little",
+    "sa": "A little"
+  },
+  {
+    "h": "सब",
+    "e": "All",
+    "c": "Numbers",
+    "s": "all",
+    "sa": "All"
+  },
+  {
+    "h": "कुछ नहीं",
+    "e": "Nothing",
+    "c": "Numbers",
+    "s": "nothing",
+    "sa": "Nothing"
+  },
+  {
+    "h": "सोमवार",
+    "e": "Monday",
+    "c": "Time",
+    "s": "monday",
+    "sa": "Monday"
+  },
+  {
+    "h": "मंगलवार",
+    "e": "Tuesday",
+    "c": "Time",
+    "s": "tuesday",
+    "sa": "Tuesday"
+  },
+  {
+    "h": "बुधवार",
+    "e": "Wednesday",
+    "c": "Time",
+    "s": "wednesday",
+    "sa": "Wednesday"
+  },
+  {
+    "h": "गुरुवार",
+    "e": "Thursday",
+    "c": "Time",
+    "s": "thursday",
+    "sa": "Thursday"
+  },
+  {
+    "h": "शुक्रवार",
+    "e": "Friday",
+    "c": "Time",
+    "s": "friday",
+    "sa": "Friday"
+  },
+  {
+    "h": "शनिवार",
+    "e": "Saturday",
+    "c": "Time",
+    "s": "saturday",
+    "sa": "Saturday"
+  },
+  {
+    "h": "रविवार",
+    "e": "Sunday",
+    "c": "Time",
+    "s": "sunday",
+    "sa": "Sunday"
+  },
+  {
+    "h": "आज",
+    "e": "Today",
+    "c": "Time",
+    "s": "today",
+    "sa": "Today"
+  },
+  {
+    "h": "कल",
+    "e": "Tomorrow",
+    "c": "Time",
+    "s": "tomorrow",
+    "sa": "Tomorrow"
+  },
+  {
+    "h": "बीता हुआ कल",
+    "e": "Yesterday",
+    "c": "Time",
+    "s": "yesterday",
+    "sa": "Yesterday"
+  },
+  {
+    "h": "परसों",
+    "e": "Day after tomorrow",
+    "c": "Time",
+    "s": "day_after_tomorrow",
+    "sa": "Day after tomorrow"
+  },
+  {
+    "h": "अभी",
+    "e": "Now",
+    "c": "Time",
+    "s": "now",
+    "sa": "Now"
+  },
+  {
+    "h": "बाद में",
+    "e": "Later",
+    "c": "Time",
+    "s": "later",
+    "sa": "Later"
+  },
+  {
+    "h": "जल्दी",
+    "e": "Early",
+    "c": "Time",
+    "s": "early",
+    "sa": "Early"
+  },
+  {
+    "h": "देर से",
+    "e": "Late",
+    "c": "Time",
+    "s": "late",
+    "sa": "Late"
+  },
+  {
+    "h": "सुबह",
+    "e": "Morning",
+    "c": "Time",
+    "s": "morning",
+    "sa": "Morning"
+  },
+  {
+    "h": "दोपहर",
+    "e": "Noon",
+    "c": "Time",
+    "s": "noon",
+    "sa": "Noon"
+  },
+  {
+    "h": "शाम",
+    "e": "Evening",
+    "c": "Time",
+    "s": "evening",
+    "sa": "Evening"
+  },
+  {
+    "h": "रात",
+    "e": "Night",
+    "c": "Time",
+    "s": "night",
+    "sa": "Night"
+  },
+  {
+    "h": "भोर",
+    "e": "Dawn",
+    "c": "Time",
+    "s": "dawn",
+    "sa": "Dawn"
+  },
+  {
+    "h": "आधी रात",
+    "e": "Midnight",
+    "c": "Time",
+    "s": "midnight",
+    "sa": "Midnight"
+  },
+  {
+    "h": "दिन",
+    "e": "Day",
+    "c": "Time",
+    "s": "day",
+    "sa": "Day"
+  },
+  {
+    "h": "सप्ताह",
+    "e": "Week",
+    "c": "Time",
+    "s": "week",
+    "sa": "Week"
+  },
+  {
+    "h": "महीना",
+    "e": "Month",
+    "c": "Time",
+    "s": "month",
+    "sa": "Month"
+  },
+  {
+    "h": "साल",
+    "e": "Year",
+    "c": "Time",
+    "s": "year",
+    "sa": "Year"
+  },
+  {
+    "h": "घंटा",
+    "e": "Hour",
+    "c": "Time",
+    "s": "hour",
+    "sa": "Hour"
+  },
+  {
+    "h": "मिनट",
+    "e": "Minute",
+    "c": "Time",
+    "s": "minute",
+    "sa": "Minute"
+  },
+  {
+    "h": "पल",
+    "e": "Moment",
+    "c": "Time",
+    "s": "moment",
+    "sa": "Moment"
+  },
+  {
+    "h": "समय",
+    "e": "Time",
+    "c": "Time",
+    "s": "time",
+    "sa": "Time"
+  },
+  {
+    "h": "समय क्या हुआ है",
+    "e": "What time is it",
+    "c": "Time",
+    "s": "what_time_is_it",
+    "sa": "What time is it"
+  },
+  {
+    "h": "गर्मी का मौसम",
+    "e": "Summer season",
+    "c": "Time",
+    "s": "summer_season",
+    "sa": "Summer season"
+  },
+  {
+    "h": "सर्दी का मौसम",
+    "e": "Winter season",
+    "c": "Time",
+    "s": "winter_season",
+    "sa": "Winter season"
+  },
+  {
+    "h": "बरसात का मौसम",
+    "e": "Rainy season",
+    "c": "Time",
+    "s": "rainy_season",
+    "sa": "Rainy season"
+  },
+  {
+    "h": "वसंत ऋतु",
+    "e": "Spring season",
+    "c": "Time",
+    "s": "spring_season",
+    "sa": "Spring season"
+  },
+  {
+    "h": "हर दिन",
+    "e": "Every day",
+    "c": "Time",
+    "s": "every_day",
+    "sa": "Every day"
+  },
+  {
+    "h": "हर साल",
+    "e": "Every year",
+    "c": "Time",
+    "s": "every_year",
+    "sa": "Every year"
+  },
+  {
+    "h": "कभी कभी",
+    "e": "Sometimes",
+    "c": "Time",
+    "s": "sometimes",
+    "sa": "Sometimes"
+  },
+  {
+    "h": "हमेशा",
+    "e": "Always",
+    "c": "Time",
+    "s": "always",
+    "sa": "Always"
+  },
+  {
+    "h": "कभी नहीं",
+    "e": "Never",
+    "c": "Time",
+    "s": "never",
+    "sa": "Never"
+  },
+  {
+    "h": "लाल",
+    "e": "Red",
+    "c": "Colors",
+    "s": "red",
+    "sa": "Red"
+  },
+  {
+    "h": "नीला",
+    "e": "Blue",
+    "c": "Colors",
+    "s": "blue",
+    "sa": "Blue"
+  },
+  {
+    "h": "पीला",
+    "e": "Yellow",
+    "c": "Colors",
+    "s": "yellow",
+    "sa": "Yellow"
+  },
+  {
+    "h": "हरा",
+    "e": "Green",
+    "c": "Colors",
+    "s": "green",
+    "sa": "Green"
+  },
+  {
+    "h": "काला",
+    "e": "Black",
+    "c": "Colors",
+    "s": "black",
+    "sa": "Black"
+  },
+  {
+    "h": "सफेद",
+    "e": "White",
+    "c": "Colors",
+    "s": "white",
+    "sa": "White"
+  },
+  {
+    "h": "गुलाबी",
+    "e": "Pink",
+    "c": "Colors",
+    "s": "pink",
+    "sa": "Pink"
+  },
+  {
+    "h": "नारंगी",
+    "e": "Orange color",
+    "c": "Colors",
+    "s": "orange_color",
+    "sa": "Orange color"
+  },
+  {
+    "h": "बैंगनी",
+    "e": "Purple",
+    "c": "Colors",
+    "s": "purple",
+    "sa": "Purple"
+  },
+  {
+    "h": "भूरा",
+    "e": "Brown",
+    "c": "Colors",
+    "s": "brown",
+    "sa": "Brown"
+  },
+  {
+    "h": "सुनहरा",
+    "e": "Golden",
+    "c": "Colors",
+    "s": "golden",
+    "sa": "Golden"
+  },
+  {
+    "h": "चाँदी जैसा",
+    "e": "Silver",
+    "c": "Colors",
+    "s": "silver",
+    "sa": "Silver"
+  },
+  {
+    "h": "गहरा रंग",
+    "e": "Dark color",
+    "c": "Colors",
+    "s": "dark_color",
+    "sa": "Dark color"
+  },
+  {
+    "h": "हल्का रंग",
+    "e": "Light color",
+    "c": "Colors",
+    "s": "light_color",
+    "sa": "Light color"
+  },
+  {
+    "h": "रंग बिरंगा",
+    "e": "Colorful",
+    "c": "Colors",
+    "s": "colorful",
+    "sa": "Colorful"
+  },
+  {
+    "h": "सिर",
+    "e": "Head",
+    "c": "Body",
+    "s": "head",
+    "sa": "Head"
+  },
+  {
+    "h": "बाल",
+    "e": "Hair",
+    "c": "Body",
+    "s": "hair",
+    "sa": "Hair"
+  },
+  {
+    "h": "आँख",
+    "e": "Eye",
+    "c": "Body",
+    "s": "eye",
+    "sa": "Eye"
+  },
+  {
+    "h": "कान",
+    "e": "Ear",
+    "c": "Body",
+    "s": "ear",
+    "sa": "Ear"
+  },
+  {
+    "h": "नाक",
+    "e": "Nose",
+    "c": "Body",
+    "s": "nose",
+    "sa": "Nose"
+  },
+  {
+    "h": "मुँह",
+    "e": "Mouth",
+    "c": "Body",
+    "s": "mouth",
+    "sa": "Mouth"
+  },
+  {
+    "h": "दाँत",
+    "e": "Teeth",
+    "c": "Body",
+    "s": "teeth",
+    "sa": "Teeth"
+  },
+  {
+    "h": "जीभ",
+    "e": "Tongue",
+    "c": "Body",
+    "s": "tongue",
+    "sa": "Tongue"
+  },
+  {
+    "h": "गला",
+    "e": "Throat",
+    "c": "Body",
+    "s": "throat",
+    "sa": "Throat"
+  },
+  {
+    "h": "गर्दन",
+    "e": "Neck",
+    "c": "Body",
+    "s": "neck",
+    "sa": "Neck"
+  },
+  {
+    "h": "कंधा",
+    "e": "Shoulder",
+    "c": "Body",
+    "s": "shoulder",
+    "sa": "Shoulder"
+  },
+  {
+    "h": "हाथ",
+    "e": "Hand",
+    "c": "Body",
+    "s": "hand",
+    "sa": "Hand"
+  },
+  {
+    "h": "उँगली",
+    "e": "Finger",
+    "c": "Body",
+    "s": "finger",
+    "sa": "Finger"
+  },
+  {
+    "h": "पेट",
+    "e": "Stomach",
+    "c": "Body",
+    "s": "stomach",
+    "sa": "Stomach"
+  },
+  {
+    "h": "पीठ",
+    "e": "Back",
+    "c": "Body",
+    "s": "back",
+    "sa": "Back"
+  },
+  {
+    "h": "पैर",
+    "e": "Leg",
+    "c": "Body",
+    "s": "leg",
+    "sa": "Leg"
+  },
+  {
+    "h": "घुटना",
+    "e": "Knee",
+    "c": "Body",
+    "s": "knee",
+    "sa": "Knee"
+  },
+  {
+    "h": "दिल",
+    "e": "Heart",
+    "c": "Body",
+    "s": "heart",
+    "sa": "Heart"
+  },
+  {
+    "h": "दिमाग",
+    "e": "Brain",
+    "c": "Body",
+    "s": "brain",
+    "sa": "Brain"
+  },
+  {
+    "h": "खून",
+    "e": "Blood",
+    "c": "Body",
+    "s": "blood",
+    "sa": "Blood"
+  },
+  {
+    "h": "हड्डी",
+    "e": "Bone",
+    "c": "Body",
+    "s": "bone",
+    "sa": "Bone"
+  },
+  {
+    "h": "त्वचा",
+    "e": "Skin",
+    "c": "Body",
+    "s": "skin",
+    "sa": "Skin"
+  },
+  {
+    "h": "आवाज़",
+    "e": "Voice",
+    "c": "Body",
+    "s": "voice",
+    "sa": "Voice"
+  },
+  {
+    "h": "साँस",
+    "e": "Breath",
+    "c": "Body",
+    "s": "breath",
+    "sa": "Breath"
+  },
+  {
+    "h": "मुस्कान",
+    "e": "Smile",
+    "c": "Body",
+    "s": "smile",
+    "sa": "Smile"
+  },
+  {
+    "h": "माता",
+    "e": "Mother",
+    "c": "Family",
+    "s": "mother",
+    "sa": "Mother"
+  },
+  {
+    "h": "पिता",
+    "e": "Father",
+    "c": "Family",
+    "s": "father",
+    "sa": "Father"
+  },
+  {
+    "h": "माँ",
+    "e": "Mom",
+    "c": "Family",
+    "s": "mom",
+    "sa": "Mom"
+  },
+  {
+    "h": "पापा",
+    "e": "Dad",
+    "c": "Family",
+    "s": "dad",
+    "sa": "Dad"
+  },
+  {
+    "h": "भाई",
+    "e": "Brother",
+    "c": "Family",
+    "s": "brother",
+    "sa": "Brother"
+  },
+  {
+    "h": "बहन",
+    "e": "Sister",
+    "c": "Family",
+    "s": "sister",
+    "sa": "Sister"
+  },
+  {
+    "h": "बड़ा भाई",
+    "e": "Elder brother",
+    "c": "Family",
+    "s": "elder_brother",
+    "sa": "Elder brother"
+  },
+  {
+    "h": "छोटी बहन",
+    "e": "Younger sister",
+    "c": "Family",
+    "s": "younger_sister",
+    "sa": "Younger sister"
+  },
+  {
+    "h": "दादा",
+    "e": "Grandfather",
+    "c": "Family",
+    "s": "grandfather",
+    "sa": "Grandfather"
+  },
+  {
+    "h": "दादी",
+    "e": "Grandmother",
+    "c": "Family",
+    "s": "grandmother",
+    "sa": "Grandmother"
+  },
+  {
+    "h": "नाना",
+    "e": "Maternal grandfather",
+    "c": "Family",
+    "s": "maternal_grandfather",
+    "sa": "Maternal grandfather"
+  },
+  {
+    "h": "नानी",
+    "e": "Maternal grandmother",
+    "c": "Family",
+    "s": "maternal_grandmother",
+    "sa": "Maternal grandmother"
+  },
+  {
+    "h": "बेटा",
+    "e": "Son",
+    "c": "Family",
+    "s": "son",
+    "sa": "Son"
+  },
+  {
+    "h": "बेटी",
+    "e": "Daughter",
+    "c": "Family",
+    "s": "daughter",
+    "sa": "Daughter"
+  },
+  {
+    "h": "पति",
+    "e": "Husband",
+    "c": "Family",
+    "s": "husband",
+    "sa": "Husband"
+  },
+  {
+    "h": "पत्नी",
+    "e": "Wife",
+    "c": "Family",
+    "s": "wife",
+    "sa": "Wife"
+  },
+  {
+    "h": "चाचा",
+    "e": "Paternal uncle",
+    "c": "Family",
+    "s": "paternal_uncle",
+    "sa": "Paternal uncle"
+  },
+  {
+    "h": "चाची",
+    "e": "Paternal aunt",
+    "c": "Family",
+    "s": "paternal_aunt",
+    "sa": "Paternal aunt"
+  },
+  {
+    "h": "मामा",
+    "e": "Maternal uncle",
+    "c": "Family",
+    "s": "maternal_uncle",
+    "sa": "Maternal uncle"
+  },
+  {
+    "h": "मामी",
+    "e": "Maternal aunt",
+    "c": "Family",
+    "s": "maternal_aunt",
+    "sa": "Maternal aunt"
+  },
+  {
+    "h": "भतीजा",
+    "e": "Nephew",
+    "c": "Family",
+    "s": "nephew",
+    "sa": "Nephew"
+  },
+  {
+    "h": "भतीजी",
+    "e": "Niece",
+    "c": "Family",
+    "s": "niece",
+    "sa": "Niece"
+  },
+  {
+    "h": "पोता",
+    "e": "Grandson",
+    "c": "Family",
+    "s": "grandson",
+    "sa": "Grandson"
+  },
+  {
+    "h": "पोती",
+    "e": "Granddaughter",
+    "c": "Family",
+    "s": "granddaughter",
+    "sa": "Granddaughter"
+  },
+  {
+    "h": "परिवार",
+    "e": "Family",
+    "c": "Family",
+    "s": "family",
+    "sa": "Family"
+  },
+  {
+    "h": "रिश्तेदार",
+    "e": "Relatives",
+    "c": "Family",
+    "s": "relatives",
+    "sa": "Relatives"
+  },
+  {
+    "h": "पड़ोसी",
+    "e": "Neighbor",
+    "c": "Family",
+    "s": "neighbor",
+    "sa": "Neighbor"
+  },
+  {
+    "h": "दोस्त",
+    "e": "Friend",
+    "c": "Family",
+    "s": "friend",
+    "sa": "Friend"
+  },
+  {
+    "h": "सबसे अच्छा दोस्त",
+    "e": "Best friend",
+    "c": "Family",
+    "s": "best_friend",
+    "sa": "Best friend"
+  },
+  {
+    "h": "मेहमान",
+    "e": "Guest",
+    "c": "Family",
+    "s": "guest",
+    "sa": "Guest"
+  },
+  {
+    "h": "कुत्ता",
+    "e": "Dog",
+    "c": "Animals",
+    "s": "dog",
+    "sa": "Dog"
+  },
+  {
+    "h": "बिल्ली",
+    "e": "Cat",
+    "c": "Animals",
+    "s": "cat",
+    "sa": "Cat"
+  },
+  {
+    "h": "गाय",
+    "e": "Cow",
+    "c": "Animals",
+    "s": "cow",
+    "sa": "Cow"
+  },
+  {
+    "h": "भैंस",
+    "e": "Buffalo",
+    "c": "Animals",
+    "s": "buffalo",
+    "sa": "Buffalo"
+  },
+  {
+    "h": "बकरी",
+    "e": "Goat",
+    "c": "Animals",
+    "s": "goat",
+    "sa": "Goat"
+  },
+  {
+    "h": "भेड़",
+    "e": "Sheep",
+    "c": "Animals",
+    "s": "sheep",
+    "sa": "Sheep"
+  },
+  {
+    "h": "घोड़ा",
+    "e": "Horse",
+    "c": "Animals",
+    "s": "horse",
+    "sa": "Horse"
+  },
+  {
+    "h": "हाथी",
+    "e": "Elephant",
+    "c": "Animals",
+    "s": "elephant",
+    "sa": "Elephant"
+  },
+  {
+    "h": "शेर",
+    "e": "Lion",
+    "c": "Animals",
+    "s": "lion",
+    "sa": "Lion"
+  },
+  {
+    "h": "बाघ",
+    "e": "Tiger",
+    "c": "Animals",
+    "s": "tiger",
+    "sa": "Tiger"
+  },
+  {
+    "h": "बंदर",
+    "e": "Monkey",
+    "c": "Animals",
+    "s": "monkey",
+    "sa": "Monkey"
+  },
+  {
+    "h": "भालू",
+    "e": "Bear",
+    "c": "Animals",
+    "s": "bear",
+    "sa": "Bear"
+  },
+  {
+    "h": "हिरण",
+    "e": "Deer",
+    "c": "Animals",
+    "s": "deer",
+    "sa": "Deer"
+  },
+  {
+    "h": "लोमड़ी",
+    "e": "Fox",
+    "c": "Animals",
+    "s": "fox",
+    "sa": "Fox"
+  },
+  {
+    "h": "खरगोश",
+    "e": "Rabbit",
+    "c": "Animals",
+    "s": "rabbit",
+    "sa": "Rabbit"
+  },
+  {
+    "h": "चूहा",
+    "e": "Mouse",
+    "c": "Animals",
+    "s": "mouse",
+    "sa": "Mouse"
+  },
+  {
+    "h": "साँप",
+    "e": "Snake",
+    "c": "Animals",
+    "s": "snake",
+    "sa": "Snake"
+  },
+  {
+    "h": "मछली",
+    "e": "Fish",
+    "c": "Animals",
+    "s": "fish",
+    "sa": "Fish"
+  },
+  {
+    "h": "पक्षी",
+    "e": "Bird",
+    "c": "Animals",
+    "s": "bird",
+    "sa": "Bird"
+  },
+  {
+    "h": "कौआ",
+    "e": "Crow",
+    "c": "Animals",
+    "s": "crow",
+    "sa": "Crow"
+  },
+  {
+    "h": "तोता",
+    "e": "Parrot",
+    "c": "Animals",
+    "s": "parrot",
+    "sa": "Parrot"
+  },
+  {
+    "h": "मोर",
+    "e": "Peacock",
+    "c": "Animals",
+    "s": "peacock",
+    "sa": "Peacock"
+  },
+  {
+    "h": "कबूतर",
+    "e": "Pigeon",
+    "c": "Animals",
+    "s": "pigeon",
+    "sa": "Pigeon"
+  },
+  {
+    "h": "मुर्गी",
+    "e": "Hen",
+    "c": "Animals",
+    "s": "hen",
+    "sa": "Hen"
+  },
+  {
+    "h": "बत्तख",
+    "e": "Duck",
+    "c": "Animals",
+    "s": "duck",
+    "sa": "Duck"
+  },
+  {
+    "h": "उल्लू",
+    "e": "Owl",
+    "c": "Animals",
+    "s": "owl",
+    "sa": "Owl"
+  },
+  {
+    "h": "तितली",
+    "e": "Butterfly",
+    "c": "Animals",
+    "s": "butterfly",
+    "sa": "Butterfly"
+  },
+  {
+    "h": "मधुमक्खी",
+    "e": "Honeybee",
+    "c": "Animals",
+    "s": "honeybee",
+    "sa": "Honeybee"
+  },
+  {
+    "h": "चींटी",
+    "e": "Ant",
+    "c": "Animals",
+    "s": "ant",
+    "sa": "Ant"
+  },
+  {
+    "h": "मकड़ी",
+    "e": "Spider",
+    "c": "Animals",
+    "s": "spider",
+    "sa": "Spider"
+  },
+  {
+    "h": "मेंढक",
+    "e": "Frog",
+    "c": "Animals",
+    "s": "frog",
+    "sa": "Frog"
+  },
+  {
+    "h": "कछुआ",
+    "e": "Turtle",
+    "c": "Animals",
+    "s": "turtle",
+    "sa": "Turtle"
+  },
+  {
+    "h": "ऊँट",
+    "e": "Camel",
+    "c": "Animals",
+    "s": "camel",
+    "sa": "Camel"
+  },
+  {
+    "h": "गधा",
+    "e": "Donkey",
+    "c": "Animals",
+    "s": "donkey",
+    "sa": "Donkey"
+  },
+  {
+    "h": "जानवर",
+    "e": "Animal",
+    "c": "Animals",
+    "s": "animal",
+    "sa": "Animal"
+  },
+  {
+    "h": "खाना",
+    "e": "Food",
+    "c": "Food",
+    "s": "food",
+    "sa": "Food"
+  },
+  {
+    "h": "पानी",
+    "e": "Water",
+    "c": "Food",
+    "s": "water",
+    "sa": "Water"
+  },
+  {
+    "h": "दूध",
+    "e": "Milk",
+    "c": "Food",
+    "s": "milk",
+    "sa": "Milk"
+  },
+  {
+    "h": "चाय",
+    "e": "Tea",
+    "c": "Food",
+    "s": "tea",
+    "sa": "Tea"
+  },
+  {
+    "h": "कॉफी",
+    "e": "Coffee",
+    "c": "Food",
+    "s": "coffee",
+    "sa": "Coffee"
+  },
+  {
+    "h": "रोटी",
+    "e": "Bread",
+    "c": "Food",
+    "s": "bread",
+    "sa": "Bread"
+  },
+  {
+    "h": "चावल",
+    "e": "Rice",
+    "c": "Food",
+    "s": "rice",
+    "sa": "Rice"
+  },
+  {
+    "h": "दाल",
+    "e": "Lentils",
+    "c": "Food",
+    "s": "lentils",
+    "sa": "Lentils"
+  },
+  {
+    "h": "सब्जी",
+    "e": "Vegetable",
+    "c": "Food",
+    "s": "vegetable",
+    "sa": "Vegetable"
+  },
+  {
+    "h": "फल",
+    "e": "Fruit",
+    "c": "Food",
+    "s": "fruit",
+    "sa": "Fruit"
+  },
+  {
+    "h": "आम",
+    "e": "Mango",
+    "c": "Food",
+    "s": "mango",
+    "sa": "Mango"
+  },
+  {
+    "h": "केला",
+    "e": "Banana",
+    "c": "Food",
+    "s": "banana",
+    "sa": "Banana"
+  },
+  {
+    "h": "सेब",
+    "e": "Apple",
+    "c": "Food",
+    "s": "apple",
+    "sa": "Apple"
+  },
+  {
+    "h": "संतरा",
+    "e": "Orange fruit",
+    "c": "Food",
+    "s": "orange_fruit",
+    "sa": "Orange fruit"
+  },
+  {
+    "h": "अंगूर",
+    "e": "Grapes",
+    "c": "Food",
+    "s": "grapes",
+    "sa": "Grapes"
+  },
+  {
+    "h": "अनार",
+    "e": "Pomegranate",
+    "c": "Food",
+    "s": "pomegranate",
+    "sa": "Pomegranate"
+  },
+  {
+    "h": "नारियल",
+    "e": "Coconut",
+    "c": "Food",
+    "s": "coconut",
+    "sa": "Coconut"
+  },
+  {
+    "h": "आलू",
+    "e": "Potato",
+    "c": "Food",
+    "s": "potato",
+    "sa": "Potato"
+  },
+  {
+    "h": "प्याज",
+    "e": "Onion",
+    "c": "Food",
+    "s": "onion",
+    "sa": "Onion"
+  },
+  {
+    "h": "टमाटर",
+    "e": "Tomato",
+    "c": "Food",
+    "s": "tomato",
+    "sa": "Tomato"
+  },
+  {
+    "h": "गाजर",
+    "e": "Carrot",
+    "c": "Food",
+    "s": "carrot",
+    "sa": "Carrot"
+  },
+  {
+    "h": "पालक",
+    "e": "Spinach",
+    "c": "Food",
+    "s": "spinach",
+    "sa": "Spinach"
+  },
+  {
+    "h": "मिर्च",
+    "e": "Chili",
+    "c": "Food",
+    "s": "chili",
+    "sa": "Chili"
+  },
+  {
+    "h": "नमक",
+    "e": "Salt",
+    "c": "Food",
+    "s": "salt",
+    "sa": "Salt"
+  },
+  {
+    "h": "चीनी",
+    "e": "Sugar",
+    "c": "Food",
+    "s": "sugar",
+    "sa": "Sugar"
+  },
+  {
+    "h": "घी",
+    "e": "Clarified butter",
+    "c": "Food",
+    "s": "clarified_butter",
+    "sa": "Clarified butter"
+  },
+  {
+    "h": "तेल",
+    "e": "Oil",
+    "c": "Food",
+    "s": "oil",
+    "sa": "Oil"
+  },
+  {
+    "h": "मसाला",
+    "e": "Spices",
+    "c": "Food",
+    "s": "spices",
+    "sa": "Spices"
+  },
+  {
+    "h": "अदरक",
+    "e": "Ginger",
+    "c": "Food",
+    "s": "ginger",
+    "sa": "Ginger"
+  },
+  {
+    "h": "लहसुन",
+    "e": "Garlic",
+    "c": "Food",
+    "s": "garlic",
+    "sa": "Garlic"
+  },
+  {
+    "h": "हल्दी",
+    "e": "Turmeric",
+    "c": "Food",
+    "s": "turmeric",
+    "sa": "Turmeric"
+  },
+  {
+    "h": "शहद",
+    "e": "Honey",
+    "c": "Food",
+    "s": "honey",
+    "sa": "Honey"
+  },
+  {
+    "h": "दही",
+    "e": "Yogurt",
+    "c": "Food",
+    "s": "yogurt",
+    "sa": "Yogurt"
+  },
+  {
+    "h": "मक्खन",
+    "e": "Butter",
+    "c": "Food",
+    "s": "butter",
+    "sa": "Butter"
+  },
+  {
+    "h": "अंडा",
+    "e": "Egg",
+    "c": "Food",
+    "s": "egg",
+    "sa": "Egg"
+  },
+  {
+    "h": "मिठाई",
+    "e": "Sweets",
+    "c": "Food",
+    "s": "sweets",
+    "sa": "Sweets"
+  },
+  {
+    "h": "लड्डू",
+    "e": "Laddu",
+    "c": "Food",
+    "s": "laddu",
+    "sa": "Laddu"
+  },
+  {
+    "h": "खीर",
+    "e": "Rice pudding",
+    "c": "Food",
+    "s": "rice_pudding",
+    "sa": "Rice pudding"
+  },
+  {
+    "h": "नाश्ता",
+    "e": "Breakfast",
+    "c": "Food",
+    "s": "breakfast",
+    "sa": "Breakfast"
+  },
+  {
+    "h": "दोपहर का खाना",
+    "e": "Lunch",
+    "c": "Food",
+    "s": "lunch",
+    "sa": "Lunch"
+  },
+  {
+    "h": "रात का खाना",
+    "e": "Dinner",
+    "c": "Food",
+    "s": "dinner",
+    "sa": "Dinner"
+  },
+  {
+    "h": "भूख लगी है",
+    "e": "I am hungry",
+    "c": "Food",
+    "s": "i_am_hungry",
+    "sa": "I am hungry"
+  },
+  {
+    "h": "प्यास लगी है",
+    "e": "I am thirsty",
+    "c": "Food",
+    "s": "i_am_thirsty",
+    "sa": "I am thirsty"
+  },
+  {
+    "h": "खाना बहुत स्वादिष्ट है",
+    "e": "The food is delicious",
+    "c": "Food",
+    "s": "the_food_is_delicious",
+    "sa": "The food is delicious"
+  },
+  {
+    "h": "खाना पकाना",
+    "e": "To cook food",
+    "c": "Food",
+    "s": "to_cook_food",
+    "sa": "To cook food"
+  },
+  {
+    "h": "आकाश",
+    "e": "Sky",
+    "c": "Nature",
+    "s": "sky",
+    "sa": "Sky"
+  },
+  {
+    "h": "बादल",
+    "e": "Cloud",
+    "c": "Nature",
+    "s": "cloud",
+    "sa": "Cloud"
+  },
+  {
+    "h": "बारिश",
+    "e": "Rain",
+    "c": "Nature",
+    "s": "rain",
+    "sa": "Rain"
+  },
+  {
+    "h": "तूफान",
+    "e": "Storm",
+    "c": "Nature",
+    "s": "storm",
+    "sa": "Storm"
+  },
+  {
+    "h": "बिजली",
+    "e": "Lightning",
+    "c": "Nature",
+    "s": "lightning",
+    "sa": "Lightning"
+  },
+  {
+    "h": "गरज",
+    "e": "Thunder",
+    "c": "Nature",
+    "s": "thunder",
+    "sa": "Thunder"
+  },
+  {
+    "h": "इंद्रधनुष",
+    "e": "Rainbow",
+    "c": "Nature",
+    "s": "rainbow",
+    "sa": "Rainbow"
+  },
+  {
+    "h": "हवा",
+    "e": "Wind",
+    "c": "Nature",
+    "s": "wind",
+    "sa": "Wind"
+  },
+  {
+    "h": "गर्मी",
+    "e": "Heat",
+    "c": "Nature",
+    "s": "heat",
+    "sa": "Heat"
+  },
+  {
+    "h": "ठंड",
+    "e": "Cold",
+    "c": "Nature",
+    "s": "cold",
+    "sa": "Cold"
+  },
+  {
+    "h": "बर्फ",
+    "e": "Snow",
+    "c": "Nature",
+    "s": "snow",
+    "sa": "Snow"
+  },
+  {
+    "h": "कोहरा",
+    "e": "Fog",
+    "c": "Nature",
+    "s": "fog",
+    "sa": "Fog"
+  },
+  {
+    "h": "धूप",
+    "e": "Sunlight",
+    "c": "Nature",
+    "s": "sunlight",
+    "sa": "Sunlight"
+  },
+  {
+    "h": "छाया",
+    "e": "Shadow",
+    "c": "Nature",
+    "s": "shadow",
+    "sa": "Shadow"
+  },
+  {
+    "h": "सूरज",
+    "e": "Sun",
+    "c": "Nature",
+    "s": "sun",
+    "sa": "Sun"
+  },
+  {
+    "h": "चाँद",
+    "e": "Moon",
+    "c": "Nature",
+    "s": "moon",
+    "sa": "Moon"
+  },
+  {
+    "h": "तारे",
+    "e": "Stars",
+    "c": "Nature",
+    "s": "stars",
+    "sa": "Stars"
+  },
+  {
+    "h": "धरती",
+    "e": "Earth",
+    "c": "Nature",
+    "s": "earth",
+    "sa": "Earth"
+  },
+  {
+    "h": "आग",
+    "e": "Fire",
+    "c": "Nature",
+    "s": "fire",
+    "sa": "Fire"
+  },
+  {
+    "h": "मिट्टी",
+    "e": "Soil",
+    "c": "Nature",
+    "s": "soil",
+    "sa": "Soil"
+  },
+  {
+    "h": "नदी",
+    "e": "River",
+    "c": "Nature",
+    "s": "river",
+    "sa": "River"
+  },
+  {
+    "h": "झरना",
+    "e": "Waterfall",
+    "c": "Nature",
+    "s": "waterfall",
+    "sa": "Waterfall"
+  },
+  {
+    "h": "तालाब",
+    "e": "Pond",
+    "c": "Nature",
+    "s": "pond",
+    "sa": "Pond"
+  },
+  {
+    "h": "झील",
+    "e": "Lake",
+    "c": "Nature",
+    "s": "lake",
+    "sa": "Lake"
+  },
+  {
+    "h": "समुद्र",
+    "e": "Ocean",
+    "c": "Nature",
+    "s": "ocean",
+    "sa": "Ocean"
+  },
+  {
+    "h": "लहर",
+    "e": "Wave",
+    "c": "Nature",
+    "s": "wave",
+    "sa": "Wave"
+  },
+  {
+    "h": "किनारा",
+    "e": "Shore",
+    "c": "Nature",
+    "s": "shore",
+    "sa": "Shore"
+  },
+  {
+    "h": "रेत",
+    "e": "Sand",
+    "c": "Nature",
+    "s": "sand",
+    "sa": "Sand"
+  },
+  {
+    "h": "पत्थर",
+    "e": "Stone",
+    "c": "Nature",
+    "s": "stone",
+    "sa": "Stone"
+  },
+  {
+    "h": "पहाड़",
+    "e": "Mountain",
+    "c": "Nature",
+    "s": "mountain",
+    "sa": "Mountain"
+  },
+  {
+    "h": "घाटी",
+    "e": "Valley",
+    "c": "Nature",
+    "s": "valley",
+    "sa": "Valley"
+  },
+  {
+    "h": "गुफा",
+    "e": "Cave",
+    "c": "Nature",
+    "s": "cave",
+    "sa": "Cave"
+  },
+  {
+    "h": "जंगल",
+    "e": "Forest",
+    "c": "Nature",
+    "s": "forest",
+    "sa": "Forest"
+  },
+  {
+    "h": "पेड़",
+    "e": "Tree",
+    "c": "Nature",
+    "s": "tree",
+    "sa": "Tree"
+  },
+  {
+    "h": "पत्ता",
+    "e": "Leaf",
+    "c": "Nature",
+    "s": "leaf",
+    "sa": "Leaf"
+  },
+  {
+    "h": "जड़",
+    "e": "Root",
+    "c": "Nature",
+    "s": "root",
+    "sa": "Root"
+  },
+  {
+    "h": "डाल",
+    "e": "Branch",
+    "c": "Nature",
+    "s": "branch",
+    "sa": "Branch"
+  },
+  {
+    "h": "फूल",
+    "e": "Flower",
+    "c": "Nature",
+    "s": "flower",
+    "sa": "Flower"
+  },
+  {
+    "h": "कमल",
+    "e": "Lotus",
+    "c": "Nature",
+    "s": "lotus",
+    "sa": "Lotus"
+  },
+  {
+    "h": "गुलाब",
+    "e": "Rose",
+    "c": "Nature",
+    "s": "rose",
+    "sa": "Rose"
+  },
+  {
+    "h": "गेंदा",
+    "e": "Marigold",
+    "c": "Nature",
+    "s": "marigold",
+    "sa": "Marigold"
+  },
+  {
+    "h": "चमेली",
+    "e": "Jasmine",
+    "c": "Nature",
+    "s": "jasmine",
+    "sa": "Jasmine"
+  },
+  {
+    "h": "घास",
+    "e": "Grass",
+    "c": "Nature",
+    "s": "grass",
+    "sa": "Grass"
+  },
+  {
+    "h": "बीज",
+    "e": "Seed",
+    "c": "Nature",
+    "s": "seed",
+    "sa": "Seed"
+  },
+  {
+    "h": "खेत",
+    "e": "Field",
+    "c": "Nature",
+    "s": "field",
+    "sa": "Field"
+  },
+  {
+    "h": "फसल",
+    "e": "Crop",
+    "c": "Nature",
+    "s": "crop",
+    "sa": "Crop"
+  },
+  {
+    "h": "गेहूँ",
+    "e": "Wheat",
+    "c": "Nature",
+    "s": "wheat",
+    "sa": "Wheat"
+  },
+  {
+    "h": "धान",
+    "e": "Paddy",
+    "c": "Nature",
+    "s": "paddy",
+    "sa": "Paddy"
+  },
+  {
+    "h": "प्रकृति",
+    "e": "Nature",
+    "c": "Nature",
+    "s": "nature",
+    "sa": "Nature"
+  },
+  {
+    "h": "घर",
+    "e": "House",
+    "c": "Places",
+    "s": "house",
+    "sa": "House"
+  },
+  {
+    "h": "गाँव",
+    "e": "Village",
+    "c": "Places",
+    "s": "village",
+    "sa": "Village"
+  },
+  {
+    "h": "शहर",
+    "e": "City",
+    "c": "Places",
+    "s": "city",
+    "sa": "City"
+  },
+  {
+    "h": "देश",
+    "e": "Country",
+    "c": "Places",
+    "s": "country",
+    "sa": "Country"
+  },
+  {
+    "h": "भारत",
+    "e": "India",
+    "c": "Places",
+    "s": "india",
+    "sa": "India"
+  },
+  {
+    "h": "मुंबई",
+    "e": "Mumbai",
+    "c": "Places",
+    "s": "mumbai",
+    "sa": "Mumbai"
+  },
+  {
+    "h": "सड़क",
+    "e": "Road",
+    "c": "Places",
+    "s": "road",
+    "sa": "Road"
+  },
+  {
+    "h": "गली",
+    "e": "Lane",
+    "c": "Places",
+    "s": "lane",
+    "sa": "Lane"
+  },
+  {
+    "h": "बाज़ार",
+    "e": "Market",
+    "c": "Places",
+    "s": "market",
+    "sa": "Market"
+  },
+  {
+    "h": "दुकान",
+    "e": "Shop",
+    "c": "Places",
+    "s": "shop",
+    "sa": "Shop"
+  },
+  {
+    "h": "स्कूल",
+    "e": "School",
+    "c": "Places",
+    "s": "school",
+    "sa": "School"
+  },
+  {
+    "h": "कॉलेज",
+    "e": "College",
+    "c": "Places",
+    "s": "college",
+    "sa": "College"
+  },
+  {
+    "h": "पुस्तकालय",
+    "e": "Library",
+    "c": "Places",
+    "s": "library",
+    "sa": "Library"
+  },
+  {
+    "h": "अस्पताल",
+    "e": "Hospital",
+    "c": "Places",
+    "s": "hospital",
+    "sa": "Hospital"
+  },
+  {
+    "h": "मंदिर",
+    "e": "Temple",
+    "c": "Places",
+    "s": "temple",
+    "sa": "Temple"
+  },
+  {
+    "h": "मस्जिद",
+    "e": "Mosque",
+    "c": "Places",
+    "s": "mosque",
+    "sa": "Mosque"
+  },
+  {
+    "h": "गिरजाघर",
+    "e": "Church",
+    "c": "Places",
+    "s": "church",
+    "sa": "Church"
+  },
+  {
+    "h": "गुरुद्वारा",
+    "e": "Gurudwara",
+    "c": "Places",
+    "s": "gurudwara",
+    "sa": "Gurudwara"
+  },
+  {
+    "h": "स्टेशन",
+    "e": "Station",
+    "c": "Places",
+    "s": "station",
+    "sa": "Station"
+  },
+  {
+    "h": "हवाई अड्डा",
+    "e": "Airport",
+    "c": "Places",
+    "s": "airport",
+    "sa": "Airport"
+  },
+  {
+    "h": "पुल",
+    "e": "Bridge",
+    "c": "Places",
+    "s": "bridge",
+    "sa": "Bridge"
+  },
+  {
+    "h": "बगीचा",
+    "e": "Garden",
+    "c": "Places",
+    "s": "garden",
+    "sa": "Garden"
+  },
+  {
+    "h": "मैदान",
+    "e": "Playground",
+    "c": "Places",
+    "s": "playground",
+    "sa": "Playground"
+  },
+  {
+    "h": "कुआँ",
+    "e": "Well",
+    "c": "Places",
+    "s": "well",
+    "sa": "Well"
+  },
+  {
+    "h": "आँगन",
+    "e": "Courtyard",
+    "c": "Places",
+    "s": "courtyard",
+    "sa": "Courtyard"
+  },
+  {
+    "h": "रसोई",
+    "e": "Kitchen",
+    "c": "Places",
+    "s": "kitchen",
+    "sa": "Kitchen"
+  },
+  {
+    "h": "कमरा",
+    "e": "Room",
+    "c": "Places",
+    "s": "room",
+    "sa": "Room"
+  },
+  {
+    "h": "दरवाज़ा",
+    "e": "Door",
+    "c": "Places",
+    "s": "door",
+    "sa": "Door"
+  },
+  {
+    "h": "खिड़की",
+    "e": "Window",
+    "c": "Places",
+    "s": "window",
+    "sa": "Window"
+  },
+  {
+    "h": "छत",
+    "e": "Roof",
+    "c": "Places",
+    "s": "roof",
+    "sa": "Roof"
+  },
+  {
+    "h": "दीवार",
+    "e": "Wall",
+    "c": "Places",
+    "s": "wall",
+    "sa": "Wall"
+  },
+  {
+    "h": "सीढ़ी",
+    "e": "Stairs",
+    "c": "Places",
+    "s": "stairs",
+    "sa": "Stairs"
+  },
+  {
+    "h": "संग्रहालय",
+    "e": "Museum",
+    "c": "Places",
+    "s": "museum",
+    "sa": "Museum"
+  },
+  {
+    "h": "किला",
+    "e": "Fort",
+    "c": "Places",
+    "s": "fort",
+    "sa": "Fort"
+  },
+  {
+    "h": "महल",
+    "e": "Palace",
+    "c": "Places",
+    "s": "palace",
+    "sa": "Palace"
+  },
+  {
+    "h": "बिस्तर",
+    "e": "Bed",
+    "c": "Daily Life",
+    "s": "bed",
+    "sa": "Bed"
+  },
+  {
+    "h": "कुर्सी",
+    "e": "Chair",
+    "c": "Daily Life",
+    "s": "chair",
+    "sa": "Chair"
+  },
+  {
+    "h": "मेज़",
+    "e": "Table",
+    "c": "Daily Life",
+    "s": "table",
+    "sa": "Table"
+  },
+  {
+    "h": "दीपक",
+    "e": "Lamp",
+    "c": "Daily Life",
+    "s": "lamp",
+    "sa": "Lamp"
+  },
+  {
+    "h": "लालटेन",
+    "e": "Lantern",
+    "c": "Daily Life",
+    "s": "lantern",
+    "sa": "Lantern"
+  },
+  {
+    "h": "पीतल की लालटेन",
+    "e": "Brass lantern",
+    "c": "Daily Life",
+    "s": "brass_lantern",
+    "sa": "Brass lantern"
+  },
+  {
+    "h": "मोमबत्ती",
+    "e": "Candle",
+    "c": "Daily Life",
+    "s": "candle",
+    "sa": "Candle"
+  },
+  {
+    "h": "दर्पण",
+    "e": "Mirror",
+    "c": "Daily Life",
+    "s": "mirror",
+    "sa": "Mirror"
+  },
+  {
+    "h": "घड़ी",
+    "e": "Clock",
+    "c": "Daily Life",
+    "s": "clock",
+    "sa": "Clock"
+  },
+  {
+    "h": "चाबी",
+    "e": "Key",
+    "c": "Daily Life",
+    "s": "key",
+    "sa": "Key"
+  },
+  {
+    "h": "ताला",
+    "e": "Lock",
+    "c": "Daily Life",
+    "s": "lock",
+    "sa": "Lock"
+  },
+  {
+    "h": "थैला",
+    "e": "Bag",
+    "c": "Daily Life",
+    "s": "bag",
+    "sa": "Bag"
+  },
+  {
+    "h": "बर्तन",
+    "e": "Utensils",
+    "c": "Daily Life",
+    "s": "utensils",
+    "sa": "Utensils"
+  },
+  {
+    "h": "मटका",
+    "e": "Clay pot",
+    "c": "Daily Life",
+    "s": "clay_pot",
+    "sa": "Clay pot"
+  },
+  {
+    "h": "थाली",
+    "e": "Plate",
+    "c": "Daily Life",
+    "s": "plate",
+    "sa": "Plate"
+  },
+  {
+    "h": "कटोरी",
+    "e": "Bowl",
+    "c": "Daily Life",
+    "s": "bowl",
+    "sa": "Bowl"
+  },
+  {
+    "h": "गिलास",
+    "e": "Glass",
+    "c": "Daily Life",
+    "s": "glass",
+    "sa": "Glass"
+  },
+  {
+    "h": "चम्मच",
+    "e": "Spoon",
+    "c": "Daily Life",
+    "s": "spoon",
+    "sa": "Spoon"
+  },
+  {
+    "h": "चूल्हा",
+    "e": "Stove",
+    "c": "Daily Life",
+    "s": "stove",
+    "sa": "Stove"
+  },
+  {
+    "h": "झाड़ू",
+    "e": "Broom",
+    "c": "Daily Life",
+    "s": "broom",
+    "sa": "Broom"
+  },
+  {
+    "h": "रस्सी",
+    "e": "Rope",
+    "c": "Daily Life",
+    "s": "rope",
+    "sa": "Rope"
+  },
+  {
+    "h": "टोकरी",
+    "e": "Basket",
+    "c": "Daily Life",
+    "s": "basket",
+    "sa": "Basket"
+  },
+  {
+    "h": "कपड़े",
+    "e": "Clothes",
+    "c": "Daily Life",
+    "s": "clothes",
+    "sa": "Clothes"
+  },
+  {
+    "h": "साड़ी",
+    "e": "Saree",
+    "c": "Daily Life",
+    "s": "saree",
+    "sa": "Saree"
+  },
+  {
+    "h": "कुर्ता",
+    "e": "Kurta",
+    "c": "Daily Life",
+    "s": "kurta",
+    "sa": "Kurta"
+  },
+  {
+    "h": "धोती",
+    "e": "Dhoti",
+    "c": "Daily Life",
+    "s": "dhoti",
+    "sa": "Dhoti"
+  },
+  {
+    "h": "दुपट्टा",
+    "e": "Scarf",
+    "c": "Daily Life",
+    "s": "scarf",
+    "sa": "Scarf"
+  },
+  {
+    "h": "जूते",
+    "e": "Shoes",
+    "c": "Daily Life",
+    "s": "shoes",
+    "sa": "Shoes"
+  },
+  {
+    "h": "चप्पल",
+    "e": "Slippers",
+    "c": "Daily Life",
+    "s": "slippers",
+    "sa": "Slippers"
+  },
+  {
+    "h": "टोपी",
+    "e": "Hat",
+    "c": "Daily Life",
+    "s": "hat",
+    "sa": "Hat"
+  },
+  {
+    "h": "चश्मा",
+    "e": "Spectacles",
+    "c": "Daily Life",
+    "s": "spectacles",
+    "sa": "Spectacles"
+  },
+  {
+    "h": "छाता",
+    "e": "Umbrella",
+    "c": "Daily Life",
+    "s": "umbrella",
+    "sa": "Umbrella"
+  },
+  {
+    "h": "गहने",
+    "e": "Jewelry",
+    "c": "Daily Life",
+    "s": "jewelry",
+    "sa": "Jewelry"
+  },
+  {
+    "h": "चूड़ी",
+    "e": "Bangle",
+    "c": "Daily Life",
+    "s": "bangle",
+    "sa": "Bangle"
+  },
+  {
+    "h": "अंगूठी",
+    "e": "Ring",
+    "c": "Daily Life",
+    "s": "ring",
+    "sa": "Ring"
+  },
+  {
+    "h": "हार",
+    "e": "Necklace",
+    "c": "Daily Life",
+    "s": "necklace",
+    "sa": "Necklace"
+  },
+  {
+    "h": "किताब",
+    "e": "Book",
+    "c": "Daily Life",
+    "s": "book",
+    "sa": "Book"
+  },
+  {
+    "h": "कलम",
+    "e": "Pen",
+    "c": "Daily Life",
+    "s": "pen",
+    "sa": "Pen"
+  },
+  {
+    "h": "पेंसिल",
+    "e": "Pencil",
+    "c": "Daily Life",
+    "s": "pencil",
+    "sa": "Pencil"
+  },
+  {
+    "h": "कागज़",
+    "e": "Paper",
+    "c": "Daily Life",
+    "s": "paper",
+    "sa": "Paper"
+  },
+  {
+    "h": "चिट्ठी",
+    "e": "Letter",
+    "c": "Daily Life",
+    "s": "letter",
+    "sa": "Letter"
+  },
+  {
+    "h": "तस्वीर",
+    "e": "Photo",
+    "c": "Daily Life",
+    "s": "photo",
+    "sa": "Photo"
+  },
+  {
+    "h": "खिलौना",
+    "e": "Toy",
+    "c": "Daily Life",
+    "s": "toy",
+    "sa": "Toy"
+  },
+  {
+    "h": "गेंद",
+    "e": "Ball",
+    "c": "Daily Life",
+    "s": "ball",
+    "sa": "Ball"
+  },
+  {
+    "h": "पतंग",
+    "e": "Kite",
+    "c": "Daily Life",
+    "s": "kite",
+    "sa": "Kite"
+  },
+  {
+    "h": "साइकिल",
+    "e": "Bicycle",
+    "c": "Daily Life",
+    "s": "bicycle",
+    "sa": "Bicycle"
+  },
+  {
+    "h": "गाड़ी",
+    "e": "Car",
+    "c": "Daily Life",
+    "s": "car",
+    "sa": "Car"
+  },
+  {
+    "h": "बस",
+    "e": "Bus",
+    "c": "Daily Life",
+    "s": "bus",
+    "sa": "Bus"
+  },
+  {
+    "h": "रेलगाड़ी",
+    "e": "Train",
+    "c": "Daily Life",
+    "s": "train",
+    "sa": "Train"
+  },
+  {
+    "h": "नाव",
+    "e": "Boat",
+    "c": "Daily Life",
+    "s": "boat",
+    "sa": "Boat"
+  },
+  {
+    "h": "पैसा",
+    "e": "Money",
+    "c": "Daily Life",
+    "s": "money",
+    "sa": "Money"
+  },
+  {
+    "h": "काम",
+    "e": "Work",
+    "c": "Daily Life",
+    "s": "work",
+    "sa": "Work"
+  },
+  {
+    "h": "आराम",
+    "e": "Rest",
+    "c": "Daily Life",
+    "s": "rest",
+    "sa": "Rest"
+  },
+  {
+    "h": "नींद",
+    "e": "Sleep",
+    "c": "Daily Life",
+    "s": "sleep",
+    "sa": "Sleep"
+  },
+  {
+    "h": "सपना",
+    "e": "Dream",
+    "c": "Daily Life",
+    "s": "dream",
+    "sa": "Dream"
+  },
+  {
+    "h": "किसान",
+    "e": "Farmer",
+    "c": "Professions",
+    "s": "farmer",
+    "sa": "Farmer"
+  },
+  {
+    "h": "शिक्षक",
+    "e": "Teacher",
+    "c": "Professions",
+    "s": "teacher",
+    "sa": "Teacher"
+  },
+  {
+    "h": "डॉक्टर",
+    "e": "Doctor",
+    "c": "Professions",
+    "s": "doctor",
+    "sa": "Doctor"
+  },
+  {
+    "h": "नर्स",
+    "e": "Nurse",
+    "c": "Professions",
+    "s": "nurse",
+    "sa": "Nurse"
+  },
+  {
+    "h": "इंजीनियर",
+    "e": "Engineer",
+    "c": "Professions",
+    "s": "engineer",
+    "sa": "Engineer"
+  },
+  {
+    "h": "वैज्ञानिक",
+    "e": "Scientist",
+    "c": "Professions",
+    "s": "scientist",
+    "sa": "Scientist"
+  },
+  {
+    "h": "छात्र",
+    "e": "Student",
+    "c": "Professions",
+    "s": "student",
+    "sa": "Student"
+  },
+  {
+    "h": "लेखक",
+    "e": "Writer",
+    "c": "Professions",
+    "s": "writer",
+    "sa": "Writer"
+  },
+  {
+    "h": "कवि",
+    "e": "Poet",
+    "c": "Professions",
+    "s": "poet",
+    "sa": "Poet"
+  },
+  {
+    "h": "गायक",
+    "e": "Singer",
+    "c": "Professions",
+    "s": "singer",
+    "sa": "Singer"
+  },
+  {
+    "h": "नर्तक",
+    "e": "Dancer",
+    "c": "Professions",
+    "s": "dancer",
+    "sa": "Dancer"
+  },
+  {
+    "h": "कलाकार",
+    "e": "Artist",
+    "c": "Professions",
+    "s": "artist",
+    "sa": "Artist"
+  },
+  {
+    "h": "चित्रकार",
+    "e": "Painter",
+    "c": "Professions",
+    "s": "painter",
+    "sa": "Painter"
+  },
+  {
+    "h": "संगीतकार",
+    "e": "Musician",
+    "c": "Professions",
+    "s": "musician",
+    "sa": "Musician"
+  },
+  {
+    "h": "कहानीकार",
+    "e": "Storyteller",
+    "c": "Professions",
+    "s": "storyteller",
+    "sa": "Storyteller"
+  },
+  {
+    "h": "बढ़ई",
+    "e": "Carpenter",
+    "c": "Professions",
+    "s": "carpenter",
+    "sa": "Carpenter"
+  },
+  {
+    "h": "लोहार",
+    "e": "Blacksmith",
+    "c": "Professions",
+    "s": "blacksmith",
+    "sa": "Blacksmith"
+  },
+  {
+    "h": "कुम्हार",
+    "e": "Potter",
+    "c": "Professions",
+    "s": "potter",
+    "sa": "Potter"
+  },
+  {
+    "h": "बुनकर",
+    "e": "Weaver",
+    "c": "Professions",
+    "s": "weaver",
+    "sa": "Weaver"
+  },
+  {
+    "h": "दर्जी",
+    "e": "Tailor",
+    "c": "Professions",
+    "s": "tailor",
+    "sa": "Tailor"
+  },
+  {
+    "h": "मछुआरा",
+    "e": "Fisherman",
+    "c": "Professions",
+    "s": "fisherman",
+    "sa": "Fisherman"
+  },
+  {
+    "h": "चरवाहा",
+    "e": "Shepherd",
+    "c": "Professions",
+    "s": "shepherd",
+    "sa": "Shepherd"
+  },
+  {
+    "h": "व्यापारी",
+    "e": "Merchant",
+    "c": "Professions",
+    "s": "merchant",
+    "sa": "Merchant"
+  },
+  {
+    "h": "दुकानदार",
+    "e": "Shopkeeper",
+    "c": "Professions",
+    "s": "shopkeeper",
+    "sa": "Shopkeeper"
+  },
+  {
+    "h": "रसोइया",
+    "e": "Cook",
+    "c": "Professions",
+    "s": "cook",
+    "sa": "Cook"
+  },
+  {
+    "h": "माली",
+    "e": "Gardener",
+    "c": "Professions",
+    "s": "gardener",
+    "sa": "Gardener"
+  },
+  {
+    "h": "सिपाही",
+    "e": "Soldier",
+    "c": "Professions",
+    "s": "soldier",
+    "sa": "Soldier"
+  },
+  {
+    "h": "राजा",
+    "e": "King",
+    "c": "Professions",
+    "s": "king",
+    "sa": "King"
+  },
+  {
+    "h": "रानी",
+    "e": "Queen",
+    "c": "Professions",
+    "s": "queen",
+    "sa": "Queen"
+  },
+  {
+    "h": "संत",
+    "e": "Saint",
+    "c": "Professions",
+    "s": "saint",
+    "sa": "Saint"
+  },
+  {
+    "h": "पुजारी",
+    "e": "Priest",
+    "c": "Professions",
+    "s": "priest",
+    "sa": "Priest"
+  },
+  {
+    "h": "विद्वान",
+    "e": "Scholar",
+    "c": "Professions",
+    "s": "scholar",
+    "sa": "Scholar"
+  },
+  {
+    "h": "नेता",
+    "e": "Leader",
+    "c": "Professions",
+    "s": "leader",
+    "sa": "Leader"
+  },
+  {
+    "h": "खिलाड़ी",
+    "e": "Player",
+    "c": "Professions",
+    "s": "player",
+    "sa": "Player"
+  },
+  {
+    "h": "आना",
+    "e": "To come",
+    "c": "Actions",
+    "s": "to_come",
+    "sa": "To come"
+  },
+  {
+    "h": "जाना",
+    "e": "To go",
+    "c": "Actions",
+    "s": "to_go",
+    "sa": "To go"
+  },
+  {
+    "h": "खाना खाना",
+    "e": "To eat",
+    "c": "Actions",
+    "s": "to_eat",
+    "sa": "To eat"
+  },
+  {
+    "h": "पीना",
+    "e": "To drink",
+    "c": "Actions",
+    "s": "to_drink",
+    "sa": "To drink"
+  },
+  {
+    "h": "सोना",
+    "e": "To sleep",
+    "c": "Actions",
+    "s": "to_sleep",
+    "sa": "To sleep"
+  },
+  {
+    "h": "जागना",
+    "e": "To wake up",
+    "c": "Actions",
+    "s": "to_wake_up",
+    "sa": "To wake up"
+  },
+  {
+    "h": "उठना",
+    "e": "To get up",
+    "c": "Actions",
+    "s": "to_get_up",
+    "sa": "To get up"
+  },
+  {
+    "h": "बैठना",
+    "e": "To sit",
+    "c": "Actions",
+    "s": "to_sit",
+    "sa": "To sit"
+  },
+  {
+    "h": "खड़ा होना",
+    "e": "To stand",
+    "c": "Actions",
+    "s": "to_stand",
+    "sa": "To stand"
+  },
+  {
+    "h": "चलना",
+    "e": "To walk",
+    "c": "Actions",
+    "s": "to_walk",
+    "sa": "To walk"
+  },
+  {
+    "h": "दौड़ना",
+    "e": "To run",
+    "c": "Actions",
+    "s": "to_run",
+    "sa": "To run"
+  },
+  {
+    "h": "रुकना",
+    "e": "To stop",
+    "c": "Actions",
+    "s": "to_stop",
+    "sa": "To stop"
+  },
+  {
+    "h": "कूदना",
+    "e": "To jump",
+    "c": "Actions",
+    "s": "to_jump",
+    "sa": "To jump"
+  },
+  {
+    "h": "तैरना",
+    "e": "To swim",
+    "c": "Actions",
+    "s": "to_swim",
+    "sa": "To swim"
+  },
+  {
+    "h": "उड़ना",
+    "e": "To fly",
+    "c": "Actions",
+    "s": "to_fly",
+    "sa": "To fly"
+  },
+  {
+    "h": "गिरना",
+    "e": "To fall",
+    "c": "Actions",
+    "s": "to_fall",
+    "sa": "To fall"
+  },
+  {
+    "h": "देखना",
+    "e": "To see",
+    "c": "Actions",
+    "s": "to_see",
+    "sa": "To see"
+  },
+  {
+    "h": "सुनना",
+    "e": "To listen",
+    "c": "Actions",
+    "s": "to_listen",
+    "sa": "To listen"
+  },
+  {
+    "h": "बोलना",
+    "e": "To speak",
+    "c": "Actions",
+    "s": "to_speak",
+    "sa": "To speak"
+  },
+  {
+    "h": "कहना",
+    "e": "To say",
+    "c": "Actions",
+    "s": "to_say",
+    "sa": "To say"
+  },
+  {
+    "h": "पूछना",
+    "e": "To ask",
+    "c": "Actions",
+    "s": "to_ask",
+    "sa": "To ask"
+  },
+  {
+    "h": "बताना",
+    "e": "To tell",
+    "c": "Actions",
+    "s": "to_tell",
+    "sa": "To tell"
+  },
+  {
+    "h": "पढ़ना",
+    "e": "To read",
+    "c": "Actions",
+    "s": "to_read",
+    "sa": "To read"
+  },
+  {
+    "h": "लिखना",
+    "e": "To write",
+    "c": "Actions",
+    "s": "to_write",
+    "sa": "To write"
+  },
+  {
+    "h": "सीखना",
+    "e": "To learn",
+    "c": "Actions",
+    "s": "to_learn",
+    "sa": "To learn"
+  },
+  {
+    "h": "सिखाना",
+    "e": "To teach",
+    "c": "Actions",
+    "s": "to_teach",
+    "sa": "To teach"
+  },
+  {
+    "h": "समझना",
+    "e": "To understand",
+    "c": "Actions",
+    "s": "to_understand",
+    "sa": "To understand"
+  },
+  {
+    "h": "सोचना",
+    "e": "To think",
+    "c": "Actions",
+    "s": "to_think",
+    "sa": "To think"
+  },
+  {
+    "h": "जानना",
+    "e": "To know",
+    "c": "Actions",
+    "s": "to_know",
+    "sa": "To know"
+  },
+  {
+    "h": "भूलना",
+    "e": "To forget",
+    "c": "Actions",
+    "s": "to_forget",
+    "sa": "To forget"
+  },
+  {
+    "h": "याद रखना",
+    "e": "To remember",
+    "c": "Actions",
+    "s": "to_remember",
+    "sa": "To remember"
+  },
+  {
+    "h": "खोजना",
+    "e": "To search",
+    "c": "Actions",
+    "s": "to_search",
+    "sa": "To search"
+  },
+  {
+    "h": "पाना",
+    "e": "To find",
+    "c": "Actions",
+    "s": "to_find",
+    "sa": "To find"
+  },
+  {
+    "h": "खोना",
+    "e": "To lose",
+    "c": "Actions",
+    "s": "to_lose",
+    "sa": "To lose"
+  },
+  {
+    "h": "देना",
+    "e": "To give",
+    "c": "Actions",
+    "s": "to_give",
+    "sa": "To give"
+  },
+  {
+    "h": "लेना",
+    "e": "To take",
+    "c": "Actions",
+    "s": "to_take",
+    "sa": "To take"
+  },
+  {
+    "h": "रखना",
+    "e": "To keep",
+    "c": "Actions",
+    "s": "to_keep",
+    "sa": "To keep"
+  },
+  {
+    "h": "उठाना",
+    "e": "To lift",
+    "c": "Actions",
+    "s": "to_lift",
+    "sa": "To lift"
+  },
+  {
+    "h": "खोलना",
+    "e": "To open",
+    "c": "Actions",
+    "s": "to_open",
+    "sa": "To open"
+  },
+  {
+    "h": "बंद करना",
+    "e": "To close",
+    "c": "Actions",
+    "s": "to_close",
+    "sa": "To close"
+  },
+  {
+    "h": "बनाना",
+    "e": "To make",
+    "c": "Actions",
+    "s": "to_make",
+    "sa": "To make"
+  },
+  {
+    "h": "तोड़ना",
+    "e": "To break",
+    "c": "Actions",
+    "s": "to_break",
+    "sa": "To break"
+  },
+  {
+    "h": "जोड़ना",
+    "e": "To join",
+    "c": "Actions",
+    "s": "to_join",
+    "sa": "To join"
+  },
+  {
+    "h": "काटना",
+    "e": "To cut",
+    "c": "Actions",
+    "s": "to_cut",
+    "sa": "To cut"
+  },
+  {
+    "h": "सिलना",
+    "e": "To sew",
+    "c": "Actions",
+    "s": "to_sew",
+    "sa": "To sew"
+  },
+  {
+    "h": "धोना",
+    "e": "To wash",
+    "c": "Actions",
+    "s": "to_wash",
+    "sa": "To wash"
+  },
+  {
+    "h": "साफ करना",
+    "e": "To clean",
+    "c": "Actions",
+    "s": "to_clean",
+    "sa": "To clean"
+  },
+  {
+    "h": "पकाना",
+    "e": "To cook",
+    "c": "Actions",
+    "s": "to_cook",
+    "sa": "To cook"
+  },
+  {
+    "h": "गाना गाना",
+    "e": "To sing",
+    "c": "Actions",
+    "s": "to_sing",
+    "sa": "To sing"
+  },
+  {
+    "h": "नाचना",
+    "e": "To dance",
+    "c": "Actions",
+    "s": "to_dance",
+    "sa": "To dance"
+  },
+  {
+    "h": "बजाना",
+    "e": "To play music",
+    "c": "Actions",
+    "s": "to_play_music",
+    "sa": "To play music"
+  },
+  {
+    "h": "खेलना",
+    "e": "To play",
+    "c": "Actions",
+    "s": "to_play",
+    "sa": "To play"
+  },
+  {
+    "h": "हँसना",
+    "e": "To laugh",
+    "c": "Actions",
+    "s": "to_laugh",
+    "sa": "To laugh"
+  },
+  {
+    "h": "रोना",
+    "e": "To cry",
+    "c": "Actions",
+    "s": "to_cry",
+    "sa": "To cry"
+  },
+  {
+    "h": "मुस्कुराना",
+    "e": "To smile",
+    "c": "Actions",
+    "s": "to_smile",
+    "sa": "To smile"
+  },
+  {
+    "h": "प्यार करना",
+    "e": "To love",
+    "c": "Actions",
+    "s": "to_love",
+    "sa": "To love"
+  },
+  {
+    "h": "मदद करना",
+    "e": "To help",
+    "c": "Actions",
+    "s": "to_help",
+    "sa": "To help"
+  },
+  {
+    "h": "इंतज़ार करना",
+    "e": "To wait",
+    "c": "Actions",
+    "s": "to_wait",
+    "sa": "To wait"
+  },
+  {
+    "h": "मिलना",
+    "e": "To meet",
+    "c": "Actions",
+    "s": "to_meet",
+    "sa": "To meet"
+  },
+  {
+    "h": "बुलाना",
+    "e": "To call",
+    "c": "Actions",
+    "s": "to_call",
+    "sa": "To call"
+  },
+  {
+    "h": "भेजना",
+    "e": "To send",
+    "c": "Actions",
+    "s": "to_send",
+    "sa": "To send"
+  },
+  {
+    "h": "लाना",
+    "e": "To bring",
+    "c": "Actions",
+    "s": "to_bring",
+    "sa": "To bring"
+  },
+  {
+    "h": "ले जाना",
+    "e": "To carry away",
+    "c": "Actions",
+    "s": "to_carry_away",
+    "sa": "To carry away"
+  },
+  {
+    "h": "खरीदना",
+    "e": "To buy",
+    "c": "Actions",
+    "s": "to_buy",
+    "sa": "To buy"
+  },
+  {
+    "h": "बेचना",
+    "e": "To sell",
+    "c": "Actions",
+    "s": "to_sell",
+    "sa": "To sell"
+  },
+  {
+    "h": "जीतना",
+    "e": "To win",
+    "c": "Actions",
+    "s": "to_win",
+    "sa": "To win"
+  },
+  {
+    "h": "हारना",
+    "e": "To lose a game",
+    "c": "Actions",
+    "s": "to_lose_a_game",
+    "sa": "To lose a game"
+  },
+  {
+    "h": "शुरू करना",
+    "e": "To begin",
+    "c": "Actions",
+    "s": "to_begin",
+    "sa": "To begin"
+  },
+  {
+    "h": "खत्म करना",
+    "e": "To finish",
+    "c": "Actions",
+    "s": "to_finish",
+    "sa": "To finish"
+  },
+  {
+    "h": "कोशिश करना",
+    "e": "To try",
+    "c": "Actions",
+    "s": "to_try",
+    "sa": "To try"
+  },
+  {
+    "h": "बदलना",
+    "e": "To change",
+    "c": "Actions",
+    "s": "to_change",
+    "sa": "To change"
+  },
+  {
+    "h": "बढ़ना",
+    "e": "To grow",
+    "c": "Actions",
+    "s": "to_grow",
+    "sa": "To grow"
+  },
+  {
+    "h": "जीना",
+    "e": "To live",
+    "c": "Actions",
+    "s": "to_live",
+    "sa": "To live"
+  },
+  {
+    "h": "बचाना",
+    "e": "To save",
+    "c": "Actions",
+    "s": "to_save",
+    "sa": "To save"
+  },
+  {
+    "h": "रक्षा करना",
+    "e": "To protect",
+    "c": "Actions",
+    "s": "to_protect",
+    "sa": "To protect"
+  },
+  {
+    "h": "बड़ा",
+    "e": "Big",
+    "c": "Describing",
+    "s": "big",
+    "sa": "Big"
+  },
+  {
+    "h": "छोटा",
+    "e": "Small",
+    "c": "Describing",
+    "s": "small",
+    "sa": "Small"
+  },
+  {
+    "h": "लंबा",
+    "e": "Tall",
+    "c": "Describing",
+    "s": "tall",
+    "sa": "Tall"
+  },
+  {
+    "h": "नाटा",
+    "e": "Short",
+    "c": "Describing",
+    "s": "short",
+    "sa": "Short"
+  },
+  {
+    "h": "मोटा",
+    "e": "Fat",
+    "c": "Describing",
+    "s": "fat",
+    "sa": "Fat"
+  },
+  {
+    "h": "पतला",
+    "e": "Thin",
+    "c": "Describing",
+    "s": "thin",
+    "sa": "Thin"
+  },
+  {
+    "h": "नया",
+    "e": "New",
+    "c": "Describing",
+    "s": "new",
+    "sa": "New"
+  },
+  {
+    "h": "पुराना",
+    "e": "Old thing",
+    "c": "Describing",
+    "s": "old_thing",
+    "sa": "Old thing"
+  },
+  {
+    "h": "जवान",
+    "e": "Young",
+    "c": "Describing",
+    "s": "young",
+    "sa": "Young"
+  },
+  {
+    "h": "बूढ़ा",
+    "e": "Old person",
+    "c": "Describing",
+    "s": "old_person",
+    "sa": "Old person"
+  },
+  {
+    "h": "अच्छा",
+    "e": "Good",
+    "c": "Describing",
+    "s": "good",
+    "sa": "Good"
+  },
+  {
+    "h": "बुरा",
+    "e": "Bad",
+    "c": "Describing",
+    "s": "bad",
+    "sa": "Bad"
+  },
+  {
+    "h": "सुंदर",
+    "e": "Beautiful",
+    "c": "Describing",
+    "s": "beautiful",
+    "sa": "Beautiful"
+  },
+  {
+    "h": "बदसूरत",
+    "e": "Ugly",
+    "c": "Describing",
+    "s": "ugly",
+    "sa": "Ugly"
+  },
+  {
+    "h": "तेज़",
+    "e": "Fast",
+    "c": "Describing",
+    "s": "fast",
+    "sa": "Fast"
+  },
+  {
+    "h": "धीमा",
+    "e": "Slow",
+    "c": "Describing",
+    "s": "slow",
+    "sa": "Slow"
+  },
+  {
+    "h": "गरम",
+    "e": "Hot",
+    "c": "Describing",
+    "s": "hot",
+    "sa": "Hot"
+  },
+  {
+    "h": "ठंडा",
+    "e": "Cold thing",
+    "c": "Describing",
+    "s": "cold_thing",
+    "sa": "Cold thing"
+  },
+  {
+    "h": "मीठा",
+    "e": "Sweet",
+    "c": "Describing",
+    "s": "sweet",
+    "sa": "Sweet"
+  },
+  {
+    "h": "कड़वा",
+    "e": "Bitter",
+    "c": "Describing",
+    "s": "bitter",
+    "sa": "Bitter"
+  },
+  {
+    "h": "खट्टा",
+    "e": "Sour",
+    "c": "Describing",
+    "s": "sour",
+    "sa": "Sour"
+  },
+  {
+    "h": "तीखा",
+    "e": "Spicy",
+    "c": "Describing",
+    "s": "spicy",
+    "sa": "Spicy"
+  },
+  {
+    "h": "नरम",
+    "e": "Soft",
+    "c": "Describing",
+    "s": "soft",
+    "sa": "Soft"
+  },
+  {
+    "h": "कठोर",
+    "e": "Hard",
+    "c": "Describing",
+    "s": "hard",
+    "sa": "Hard"
+  },
+  {
+    "h": "हल्का",
+    "e": "Light weight",
+    "c": "Describing",
+    "s": "light_weight",
+    "sa": "Light weight"
+  },
+  {
+    "h": "भारी",
+    "e": "Heavy",
+    "c": "Describing",
+    "s": "heavy",
+    "sa": "Heavy"
+  },
+  {
+    "h": "साफ",
+    "e": "Clean",
+    "c": "Describing",
+    "s": "clean",
+    "sa": "Clean"
+  },
+  {
+    "h": "गंदा",
+    "e": "Dirty",
+    "c": "Describing",
+    "s": "dirty",
+    "sa": "Dirty"
+  },
+  {
+    "h": "गीला",
+    "e": "Wet",
+    "c": "Describing",
+    "s": "wet",
+    "sa": "Wet"
+  },
+  {
+    "h": "सूखा",
+    "e": "Dry",
+    "c": "Describing",
+    "s": "dry",
+    "sa": "Dry"
+  },
+  {
+    "h": "खाली",
+    "e": "Empty",
+    "c": "Describing",
+    "s": "empty",
+    "sa": "Empty"
+  },
+  {
+    "h": "पास",
+    "e": "Near",
+    "c": "Describing",
+    "s": "near",
+    "sa": "Near"
+  },
+  {
+    "h": "दूर",
+    "e": "Far",
+    "c": "Describing",
+    "s": "far",
+    "sa": "Far"
+  },
+  {
+    "h": "ऊँचा",
+    "e": "High",
+    "c": "Describing",
+    "s": "high",
+    "sa": "High"
+  },
+  {
+    "h": "नीचा",
+    "e": "Low",
+    "c": "Describing",
+    "s": "low",
+    "sa": "Low"
+  },
+  {
+    "h": "गहरा",
+    "e": "Deep",
+    "c": "Describing",
+    "s": "deep",
+    "sa": "Deep"
+  },
+  {
+    "h": "चौड़ा",
+    "e": "Wide",
+    "c": "Describing",
+    "s": "wide",
+    "sa": "Wide"
+  },
+  {
+    "h": "सस्ता",
+    "e": "Cheap",
+    "c": "Describing",
+    "s": "cheap",
+    "sa": "Cheap"
+  },
+  {
+    "h": "महँगा",
+    "e": "Expensive",
+    "c": "Describing",
+    "s": "expensive",
+    "sa": "Expensive"
+  },
+  {
+    "h": "आसान",
+    "e": "Easy",
+    "c": "Describing",
+    "s": "easy",
+    "sa": "Easy"
+  },
+  {
+    "h": "मुश्किल",
+    "e": "Difficult",
+    "c": "Describing",
+    "s": "difficult",
+    "sa": "Difficult"
+  },
+  {
+    "h": "सही",
+    "e": "Correct",
+    "c": "Describing",
+    "s": "correct",
+    "sa": "Correct"
+  },
+  {
+    "h": "गलत",
+    "e": "Wrong",
+    "c": "Describing",
+    "s": "wrong",
+    "sa": "Wrong"
+  },
+  {
+    "h": "अमीर",
+    "e": "Rich",
+    "c": "Describing",
+    "s": "rich",
+    "sa": "Rich"
+  },
+  {
+    "h": "गरीब",
+    "e": "Poor",
+    "c": "Describing",
+    "s": "poor",
+    "sa": "Poor"
+  },
+  {
+    "h": "बहादुर",
+    "e": "Brave",
+    "c": "Describing",
+    "s": "brave",
+    "sa": "Brave"
+  },
+  {
+    "h": "डरपोक",
+    "e": "Cowardly",
+    "c": "Describing",
+    "s": "cowardly",
+    "sa": "Cowardly"
+  },
+  {
+    "h": "बुद्धिमान",
+    "e": "Intelligent",
+    "c": "Describing",
+    "s": "intelligent",
+    "sa": "Intelligent"
+  },
+  {
+    "h": "समझदार",
+    "e": "Wise",
+    "c": "Describing",
+    "s": "wise",
+    "sa": "Wise"
+  },
+  {
+    "h": "ईमानदार",
+    "e": "Honest",
+    "c": "Describing",
+    "s": "honest",
+    "sa": "Honest"
+  },
+  {
+    "h": "दयालु",
+    "e": "Kind",
+    "c": "Describing",
+    "s": "kind",
+    "sa": "Kind"
+  },
+  {
+    "h": "शांत",
+    "e": "Quiet",
+    "c": "Describing",
+    "s": "quiet",
+    "sa": "Quiet"
+  },
+  {
+    "h": "व्यस्त",
+    "e": "Busy",
+    "c": "Describing",
+    "s": "busy",
+    "sa": "Busy"
+  },
+  {
+    "h": "खास",
+    "e": "Special",
+    "c": "Describing",
+    "s": "special",
+    "sa": "Special"
+  },
+  {
+    "h": "अनोखा",
+    "e": "Unique",
+    "c": "Describing",
+    "s": "unique",
+    "sa": "Unique"
+  },
+  {
+    "h": "मशहूर",
+    "e": "Famous",
+    "c": "Describing",
+    "s": "famous",
+    "sa": "Famous"
+  },
+  {
+    "h": "जरूरी",
+    "e": "Important",
+    "c": "Describing",
+    "s": "important",
+    "sa": "Important"
+  },
+  {
+    "h": "खुश",
+    "e": "Happy",
+    "c": "Emotions",
+    "s": "happy",
+    "sa": "Happy"
+  },
+  {
+    "h": "दुखी",
+    "e": "Sad",
+    "c": "Emotions",
+    "s": "sad",
+    "sa": "Sad"
+  },
+  {
+    "h": "गुस्सा",
+    "e": "Angry",
+    "c": "Emotions",
+    "s": "angry",
+    "sa": "Angry"
+  },
+  {
+    "h": "डर",
+    "e": "Fear",
+    "c": "Emotions",
+    "s": "fear",
+    "sa": "Fear"
+  },
+  {
+    "h": "साहस",
+    "e": "Courage",
+    "c": "Emotions",
+    "s": "courage",
+    "sa": "Courage"
+  },
+  {
+    "h": "आशा",
+    "e": "Hope",
+    "c": "Emotions",
+    "s": "hope",
+    "sa": "Hope"
+  },
+  {
+    "h": "निराशा",
+    "e": "Despair",
+    "c": "Emotions",
+    "s": "despair",
+    "sa": "Despair"
+  },
+  {
+    "h": "गर्व",
+    "e": "Pride",
+    "c": "Emotions",
+    "s": "pride",
+    "sa": "Pride"
+  },
+  {
+    "h": "शर्म",
+    "e": "Shame",
+    "c": "Emotions",
+    "s": "shame",
+    "sa": "Shame"
+  },
+  {
+    "h": "प्रेम",
+    "e": "Love",
+    "c": "Emotions",
+    "s": "love",
+    "sa": "Love"
+  },
+  {
+    "h": "नफरत",
+    "e": "Hatred",
+    "c": "Emotions",
+    "s": "hatred",
+    "sa": "Hatred"
+  },
+  {
+    "h": "ईर्ष्या",
+    "e": "Jealousy",
+    "c": "Emotions",
+    "s": "jealousy",
+    "sa": "Jealousy"
+  },
+  {
+    "h": "संतोष",
+    "e": "Satisfaction",
+    "c": "Emotions",
+    "s": "satisfaction",
+    "sa": "Satisfaction"
+  },
+  {
+    "h": "शांति",
+    "e": "Peace",
+    "c": "Emotions",
+    "s": "peace",
+    "sa": "Peace"
+  },
+  {
+    "h": "चिंता",
+    "e": "Worry",
+    "c": "Emotions",
+    "s": "worry",
+    "sa": "Worry"
+  },
+  {
+    "h": "राहत",
+    "e": "Relief",
+    "c": "Emotions",
+    "s": "relief",
+    "sa": "Relief"
+  },
+  {
+    "h": "दर्द",
+    "e": "Pain",
+    "c": "Emotions",
+    "s": "pain",
+    "sa": "Pain"
+  },
+  {
+    "h": "आनंद",
+    "e": "Joy",
+    "c": "Emotions",
+    "s": "joy",
+    "sa": "Joy"
+  },
+  {
+    "h": "मज़ा",
+    "e": "Fun",
+    "c": "Emotions",
+    "s": "fun",
+    "sa": "Fun"
+  },
+  {
+    "h": "हैरानी",
+    "e": "Surprise",
+    "c": "Emotions",
+    "s": "surprise",
+    "sa": "Surprise"
+  },
+  {
+    "h": "अकेलापन",
+    "e": "Loneliness",
+    "c": "Emotions",
+    "s": "loneliness",
+    "sa": "Loneliness"
+  },
+  {
+    "h": "याद",
+    "e": "Memory of someone",
+    "c": "Emotions",
+    "s": "memory_of_someone",
+    "sa": "Memory of someone"
+  },
+  {
+    "h": "पछतावा",
+    "e": "Regret",
+    "c": "Emotions",
+    "s": "regret",
+    "sa": "Regret"
+  },
+  {
+    "h": "क्षमा",
+    "e": "Forgiveness",
+    "c": "Emotions",
+    "s": "forgiveness",
+    "sa": "Forgiveness"
+  },
+  {
+    "h": "कृतज्ञता",
+    "e": "Gratitude",
+    "c": "Emotions",
+    "s": "gratitude",
+    "sa": "Gratitude"
+  },
+  {
+    "h": "विश्वास",
+    "e": "Trust",
+    "c": "Emotions",
+    "s": "trust",
+    "sa": "Trust"
+  },
+  {
+    "h": "उत्साह",
+    "e": "Enthusiasm",
+    "c": "Emotions",
+    "s": "enthusiasm",
+    "sa": "Enthusiasm"
+  },
+  {
+    "h": "धैर्य",
+    "e": "Patience",
+    "c": "Emotions",
+    "s": "patience",
+    "sa": "Patience"
+  },
+  {
+    "h": "करुणा",
+    "e": "Compassion",
+    "c": "Emotions",
+    "s": "compassion",
+    "sa": "Compassion"
+  },
+  {
+    "h": "ममता",
+    "e": "Motherly love",
+    "c": "Emotions",
+    "s": "motherly_love",
+    "sa": "Motherly love"
+  },
+  {
+    "h": "भाषा",
+    "e": "Language",
+    "c": "Language",
+    "s": "language",
+    "sa": "Language"
+  },
+  {
+    "h": "मातृभाषा",
+    "e": "Mother tongue",
+    "c": "Language",
+    "s": "mother_tongue",
+    "sa": "Mother tongue"
+  },
+  {
+    "h": "बोली",
+    "e": "Dialect",
+    "c": "Language",
+    "s": "dialect",
+    "sa": "Dialect"
+  },
+  {
+    "h": "शब्द",
+    "e": "Word",
+    "c": "Language",
+    "s": "word",
+    "sa": "Word"
+  },
+  {
+    "h": "वाक्य",
+    "e": "Sentence",
+    "c": "Language",
+    "s": "sentence",
+    "sa": "Sentence"
+  },
+  {
+    "h": "अर्थ",
+    "e": "Meaning",
+    "c": "Language",
+    "s": "meaning",
+    "sa": "Meaning"
+  },
+  {
+    "h": "व्याकरण",
+    "e": "Grammar",
+    "c": "Language",
+    "s": "grammar",
+    "sa": "Grammar"
+  },
+  {
+    "h": "उच्चारण",
+    "e": "Pronunciation",
+    "c": "Language",
+    "s": "pronunciation",
+    "sa": "Pronunciation"
+  },
+  {
+    "h": "लिपि",
+    "e": "Script",
+    "c": "Language",
+    "s": "script",
+    "sa": "Script"
+  },
+  {
+    "h": "देवनागरी",
+    "e": "Devanagari",
+    "c": "Language",
+    "s": "devanagari",
+    "sa": "Devanagari"
+  },
+  {
+    "h": "अक्षर",
+    "e": "Letter of alphabet",
+    "c": "Language",
+    "s": "letter_of_alphabet",
+    "sa": "Letter of alphabet"
+  },
+  {
+    "h": "स्वर",
+    "e": "Vowel",
+    "c": "Language",
+    "s": "vowel",
+    "sa": "Vowel"
+  },
+  {
+    "h": "व्यंजन",
+    "e": "Consonant",
+    "c": "Language",
+    "s": "consonant",
+    "sa": "Consonant"
+  },
+  {
+    "h": "अनुवाद",
+    "e": "Translation",
+    "c": "Language",
+    "s": "translation",
+    "sa": "Translation"
+  },
+  {
+    "h": "कविता",
+    "e": "Poem",
+    "c": "Language",
+    "s": "poem",
+    "sa": "Poem"
+  },
+  {
+    "h": "दोहा",
+    "e": "Couplet",
+    "c": "Language",
+    "s": "couplet",
+    "sa": "Couplet"
+  },
+  {
+    "h": "कहावत",
+    "e": "Proverb",
+    "c": "Language",
+    "s": "proverb",
+    "sa": "Proverb"
+  },
+  {
+    "h": "मुहावरा",
+    "e": "Idiom",
+    "c": "Language",
+    "s": "idiom",
+    "sa": "Idiom"
+  },
+  {
+    "h": "पहेली",
+    "e": "Riddle",
+    "c": "Language",
+    "s": "riddle",
+    "sa": "Riddle"
+  },
+  {
+    "h": "गीत",
+    "e": "Song",
+    "c": "Language",
+    "s": "song",
+    "sa": "Song"
+  },
+  {
+    "h": "लोकगीत",
+    "e": "Folk song",
+    "c": "Language",
+    "s": "folk_song",
+    "sa": "Folk song"
+  },
+  {
+    "h": "लोरी",
+    "e": "Lullaby",
+    "c": "Language",
+    "s": "lullaby",
+    "sa": "Lullaby"
+  },
+  {
+    "h": "संगीत",
+    "e": "Music",
+    "c": "Language",
+    "s": "music",
+    "sa": "Music"
+  },
+  {
+    "h": "ढोलक",
+    "e": "Drum",
+    "c": "Language",
+    "s": "drum",
+    "sa": "Drum"
+  },
+  {
+    "h": "बाँसुरी",
+    "e": "Flute",
+    "c": "Language",
+    "s": "flute",
+    "sa": "Flute"
+  },
+  {
+    "h": "तबला",
+    "e": "Tabla",
+    "c": "Language",
+    "s": "tabla",
+    "sa": "Tabla"
+  },
+  {
+    "h": "नृत्य",
+    "e": "Dance form",
+    "c": "Language",
+    "s": "dance_form",
+    "sa": "Dance form"
+  },
+  {
+    "h": "कहानी",
+    "e": "Story",
+    "c": "Language",
+    "s": "story",
+    "sa": "Story"
+  },
+  {
+    "h": "लोककथा",
+    "e": "Folktale",
+    "c": "Language",
+    "s": "folktale",
+    "sa": "Folktale"
+  },
+  {
+    "h": "परी कथा",
+    "e": "Fairy tale",
+    "c": "Language",
+    "s": "fairy_tale",
+    "sa": "Fairy tale"
+  },
+  {
+    "h": "महाकाव्य",
+    "e": "Epic",
+    "c": "Language",
+    "s": "epic",
+    "sa": "Epic"
+  },
+  {
+    "h": "रामायण",
+    "e": "Ramayana",
+    "c": "Language",
+    "s": "ramayana",
+    "sa": "Ramayana"
+  },
+  {
+    "h": "महाभारत",
+    "e": "Mahabharata",
+    "c": "Language",
+    "s": "mahabharata",
+    "sa": "Mahabharata"
+  },
+  {
+    "h": "पंचतंत्र",
+    "e": "Panchatantra",
+    "c": "Language",
+    "s": "panchatantra",
+    "sa": "Panchatantra"
+  },
+  {
+    "h": "परंपरा",
+    "e": "Tradition",
+    "c": "Language",
+    "s": "tradition",
+    "sa": "Tradition"
+  },
+  {
+    "h": "संस्कृति",
+    "e": "Culture",
+    "c": "Language",
+    "s": "culture",
+    "sa": "Culture"
+  },
+  {
+    "h": "विरासत",
+    "e": "Heritage",
+    "c": "Language",
+    "s": "heritage",
+    "sa": "Heritage"
+  },
+  {
+    "h": "रीति रिवाज",
+    "e": "Customs",
+    "c": "Language",
+    "s": "customs",
+    "sa": "Customs"
+  },
+  {
+    "h": "त्योहार",
+    "e": "Festival",
+    "c": "Language",
+    "s": "festival",
+    "sa": "Festival"
+  },
+  {
+    "h": "दीवाली",
+    "e": "Diwali",
+    "c": "Language",
+    "s": "diwali",
+    "sa": "Diwali"
+  },
+  {
+    "h": "होली",
+    "e": "Holi",
+    "c": "Language",
+    "s": "holi",
+    "sa": "Holi"
+  },
+  {
+    "h": "मेला",
+    "e": "Fair",
+    "c": "Language",
+    "s": "fair",
+    "sa": "Fair"
+  },
+  {
+    "h": "पूजा",
+    "e": "Worship",
+    "c": "Language",
+    "s": "worship",
+    "sa": "Worship"
+  },
+  {
+    "h": "आरती",
+    "e": "Aarti",
+    "c": "Language",
+    "s": "aarti",
+    "sa": "Aarti"
+  },
+  {
+    "h": "प्रार्थना",
+    "e": "Prayer",
+    "c": "Language",
+    "s": "prayer",
+    "sa": "Prayer"
+  },
+  {
+    "h": "आशीर्वाद",
+    "e": "Blessing",
+    "c": "Language",
+    "s": "blessing",
+    "sa": "Blessing"
+  },
+  {
+    "h": "इतिहास",
+    "e": "History",
+    "c": "Language",
+    "s": "history",
+    "sa": "History"
+  },
+  {
+    "h": "पीढ़ी",
+    "e": "Generation",
+    "c": "Language",
+    "s": "generation",
+    "sa": "Generation"
+  },
+  {
+    "h": "पूर्वज",
+    "e": "Ancestors",
+    "c": "Language",
+    "s": "ancestors",
+    "sa": "Ancestors"
+  },
+  {
+    "h": "बुजुर्ग",
+    "e": "Elders",
+    "c": "Language",
+    "s": "elders",
+    "sa": "Elders"
+  },
+  {
+    "h": "ज्ञान",
+    "e": "Knowledge",
+    "c": "Language",
+    "s": "knowledge",
+    "sa": "Knowledge"
+  },
+  {
+    "h": "शिक्षा",
+    "e": "Education",
+    "c": "Language",
+    "s": "education",
+    "sa": "Education"
+  },
+  {
+    "h": "सीख",
+    "e": "Lesson",
+    "c": "Language",
+    "s": "lesson",
+    "sa": "Lesson"
+  },
+  {
+    "h": "भाषा सेतु",
+    "e": "BhashaSetu",
+    "c": "Preservation",
+    "s": "bhashasetu",
+    "sa": "BhashaSetu"
+  },
+  {
+    "h": "सेतु",
+    "e": "Bridge of connection",
+    "c": "Preservation",
+    "s": "bridge_of_connection",
+    "sa": "Bridge of connection"
+  },
+  {
+    "h": "रोबोट",
+    "e": "Robot",
+    "c": "Preservation",
+    "s": "robot",
+    "sa": "Robot"
+  },
+  {
+    "h": "यंत्र",
+    "e": "Machine",
+    "c": "Preservation",
+    "s": "machine",
+    "sa": "Machine"
+  },
+  {
+    "h": "कृत्रिम बुद्धि",
+    "e": "Artificial intelligence",
+    "c": "Preservation",
+    "s": "artificial_intelligence",
+    "sa": "Artificial intelligence"
+  },
+  {
+    "h": "कंप्यूटर",
+    "e": "Computer",
+    "c": "Preservation",
+    "s": "computer",
+    "sa": "Computer"
+  },
+  {
+    "h": "प्रौद्योगिकी",
+    "e": "Technology",
+    "c": "Preservation",
+    "s": "technology",
+    "sa": "Technology"
+  },
+  {
+    "h": "कैमरा",
+    "e": "Camera",
+    "c": "Preservation",
+    "s": "camera",
+    "sa": "Camera"
+  },
+  {
+    "h": "माइक्रोफोन",
+    "e": "Microphone",
+    "c": "Preservation",
+    "s": "microphone",
+    "sa": "Microphone"
+  },
+  {
+    "h": "रिकॉर्डिंग",
+    "e": "Recording",
+    "c": "Preservation",
+    "s": "recording",
+    "sa": "Recording"
+  },
+  {
+    "h": "आवाज़ रिकॉर्ड करना",
+    "e": "To record voice",
+    "c": "Preservation",
+    "s": "to_record_voice",
+    "sa": "To record voice"
+  },
+  {
+    "h": "मैं सुन रहा हूँ",
+    "e": "I am listening",
+    "c": "Preservation",
+    "s": "i_am_listening",
+    "sa": "I am listening"
+  },
+  {
+    "h": "कृपया बोलिए",
+    "e": "Please speak",
+    "c": "Preservation",
+    "s": "please_speak",
+    "sa": "Please speak"
+  },
+  {
+    "h": "कृपया दोहराइए",
+    "e": "Please repeat",
+    "c": "Preservation",
+    "s": "please_repeat",
+    "sa": "Please repeat"
+  },
+  {
+    "h": "मुझे एक कहानी सुनाइए",
+    "e": "Tell me a story",
+    "c": "Preservation",
+    "s": "tell_me_a_story",
+    "sa": "Tell me a story"
+  },
+  {
+    "h": "मुझे एक गीत सुनाइए",
+    "e": "Sing me a song",
+    "c": "Preservation",
+    "s": "sing_me_a_song",
+    "sa": "Sing me a song"
+  },
+  {
+    "h": "आपकी आवाज़ सुरक्षित है",
+    "e": "Your voice is saved",
+    "c": "Preservation",
+    "s": "your_voice_is_saved",
+    "sa": "Your voice is saved"
+  },
+  {
+    "h": "रिकॉर्डिंग शुरू",
+    "e": "Recording started",
+    "c": "Preservation",
+    "s": "recording_started",
+    "sa": "Recording started"
+  },
+  {
+    "h": "रिकॉर्डिंग समाप्त",
+    "e": "Recording finished",
+    "c": "Preservation",
+    "s": "recording_finished",
+    "sa": "Recording finished"
+  },
+  {
+    "h": "क्या आप थक गए हैं",
+    "e": "Are you tired",
+    "c": "Preservation",
+    "s": "are_you_tired",
+    "sa": "Are you tired"
+  },
+  {
+    "h": "आइए थोड़ा आराम करें",
+    "e": "Let us rest a while",
+    "c": "Preservation",
+    "s": "let_us_rest_a_while",
+    "sa": "Let us rest a while"
+  },
+  {
+    "h": "आपका बहुत धन्यवाद",
+    "e": "Thank you so much",
+    "c": "Preservation",
+    "s": "thank_you_so_much",
+    "sa": "Thank you so much"
+  },
+  {
+    "h": "विलुप्त भाषा",
+    "e": "Endangered language",
+    "c": "Preservation",
+    "s": "endangered_language",
+    "sa": "Endangered language"
+  },
+  {
+    "h": "विलुप्त हो रहा",
+    "e": "Disappearing",
+    "c": "Preservation",
+    "s": "disappearing",
+    "sa": "Disappearing"
+  },
+  {
+    "h": "संकट में",
+    "e": "In danger",
+    "c": "Preservation",
+    "s": "in_danger",
+    "sa": "In danger"
+  },
+  {
+    "h": "भाषा संरक्षण",
+    "e": "Language preservation",
+    "c": "Preservation",
+    "s": "language_preservation",
+    "sa": "Language preservation"
+  },
+  {
+    "h": "बचाना ज़रूरी है",
+    "e": "Saving is essential",
+    "c": "Preservation",
+    "s": "saving_is_essential",
+    "sa": "Saving is essential"
+  },
+  {
+    "h": "जीवित रखना",
+    "e": "To keep alive",
+    "c": "Preservation",
+    "s": "to_keep_alive",
+    "sa": "To keep alive"
+  },
+  {
+    "h": "दस्तावेज़",
+    "e": "Document",
+    "c": "Preservation",
+    "s": "document",
+    "sa": "Document"
+  },
+  {
+    "h": "संग्रह",
+    "e": "Collection",
+    "c": "Preservation",
+    "s": "collection",
+    "sa": "Collection"
+  },
+  {
+    "h": "अभिलेखागार",
+    "e": "Archive",
+    "c": "Preservation",
+    "s": "archive",
+    "sa": "Archive"
+  },
+  {
+    "h": "शोध",
+    "e": "Research",
+    "c": "Preservation",
+    "s": "research",
+    "sa": "Research"
+  },
+  {
+    "h": "साक्षात्कार",
+    "e": "Interview",
+    "c": "Preservation",
+    "s": "interview",
+    "sa": "Interview"
+  },
+  {
+    "h": "अनुमति",
+    "e": "Permission",
+    "c": "Preservation",
+    "s": "permission",
+    "sa": "Permission"
+  },
+  {
+    "h": "सहमति",
+    "e": "Consent",
+    "c": "Preservation",
+    "s": "consent",
+    "sa": "Consent"
+  },
+  {
+    "h": "सम्मान",
+    "e": "Respect",
+    "c": "Preservation",
+    "s": "respect",
+    "sa": "Respect"
+  },
+  {
+    "h": "गरिमा",
+    "e": "Dignity",
+    "c": "Preservation",
+    "s": "dignity",
+    "sa": "Dignity"
+  },
+  {
+    "h": "समुदाय",
+    "e": "Community",
+    "c": "Preservation",
+    "s": "community",
+    "sa": "Community"
+  },
+  {
+    "h": "वारली",
+    "e": "Warli",
+    "c": "Preservation",
+    "s": "warli",
+    "sa": "Warli"
+  },
+  {
+    "h": "आदिवासी",
+    "e": "Tribal",
+    "c": "Preservation",
+    "s": "tribal",
+    "sa": "Tribal"
+  },
+  {
+    "h": "वारली चित्रकला",
+    "e": "Warli painting",
+    "c": "Preservation",
+    "s": "warli_painting",
+    "sa": "Warli painting"
+  },
+  {
+    "h": "त्रिभुज",
+    "e": "Triangle",
+    "c": "Preservation",
+    "s": "triangle",
+    "sa": "Triangle"
+  },
+  {
+    "h": "वृत्त",
+    "e": "Circle",
+    "c": "Preservation",
+    "s": "circle",
+    "sa": "Circle"
+  },
+  {
+    "h": "तारपा नृत्य",
+    "e": "Tarpa dance",
+    "c": "Preservation",
+    "s": "tarpa_dance",
+    "sa": "Tarpa dance"
+  },
+  {
+    "h": "पालघर",
+    "e": "Palghar",
+    "c": "Preservation",
+    "s": "palghar",
+    "sa": "Palghar"
+  },
+  {
+    "h": "महाराष्ट्र",
+    "e": "Maharashtra",
+    "c": "Preservation",
+    "s": "maharashtra",
+    "sa": "Maharashtra"
+  },
+  {
+    "h": "भविष्य",
+    "e": "Future",
+    "c": "Preservation",
+    "s": "future",
+    "sa": "Future"
+  },
+  {
+    "h": "अतीत",
+    "e": "Past",
+    "c": "Preservation",
+    "s": "past",
+    "sa": "Past"
+  },
+  {
+    "h": "वर्तमान",
+    "e": "Present",
+    "c": "Preservation",
+    "s": "present",
+    "sa": "Present"
+  },
+  {
+    "h": "नई पीढ़ी",
+    "e": "New generation",
+    "c": "Preservation",
+    "s": "new_generation",
+    "sa": "New generation"
+  },
+  {
+    "h": "अगली पीढ़ी के लिए",
+    "e": "For the next generation",
+    "c": "Preservation",
+    "s": "for_the_next_generation",
+    "sa": "For the next generation"
+  },
+  {
+    "h": "आप कहाँ रहते हैं",
+    "e": "Where do you live",
+    "c": "Sentences",
+    "s": "where_do_you_live",
+    "sa": "Where do you live"
+  },
+  {
+    "h": "आपकी उम्र क्या है",
+    "e": "How old are you",
+    "c": "Sentences",
+    "s": "how_old_are_you",
+    "sa": "How old are you"
+  },
+  {
+    "h": "आप क्या करते हैं",
+    "e": "What do you do",
+    "c": "Sentences",
+    "s": "what_do_you_do",
+    "sa": "What do you do"
+  },
+  {
+    "h": "आपको क्या पसंद है",
+    "e": "What do you like",
+    "c": "Sentences",
+    "s": "what_do_you_like",
+    "sa": "What do you like"
+  },
+  {
+    "h": "मुझे यह पसंद है",
+    "e": "I like this",
+    "c": "Sentences",
+    "s": "i_like_this",
+    "sa": "I like this"
+  },
+  {
+    "h": "मुझे यह पसंद नहीं है",
+    "e": "I do not like this",
+    "c": "Sentences",
+    "s": "i_do_not_like_this",
+    "sa": "I do not like this"
+  },
+  {
+    "h": "यह क्या है",
+    "e": "What is this",
+    "c": "Sentences",
+    "s": "what_is_this",
+    "sa": "What is this"
+  },
+  {
+    "h": "वह क्या है",
+    "e": "What is that",
+    "c": "Sentences",
+    "s": "what_is_that",
+    "sa": "What is that"
+  },
+  {
+    "h": "यह किसका है",
+    "e": "Whose is this",
+    "c": "Sentences",
+    "s": "whose_is_this",
+    "sa": "Whose is this"
+  },
+  {
+    "h": "यह कितने का है",
+    "e": "How much is this",
+    "c": "Sentences",
+    "s": "how_much_is_this",
+    "sa": "How much is this"
+  },
+  {
+    "h": "कितना समय लगेगा",
+    "e": "How long will it take",
+    "c": "Sentences",
+    "s": "how_long_will_it_take",
+    "sa": "How long will it take"
+  },
+  {
+    "h": "रास्ता किधर है",
+    "e": "Which way is the road",
+    "c": "Sentences",
+    "s": "which_way_is_the_road",
+    "sa": "Which way is the road"
+  },
+  {
+    "h": "मुझे मदद चाहिए",
+    "e": "I need help",
+    "c": "Sentences",
+    "s": "i_need_help",
+    "sa": "I need help"
+  },
+  {
+    "h": "क्या आप मेरी मदद करेंगे",
+    "e": "Will you help me",
+    "c": "Sentences",
+    "s": "will_you_help_me",
+    "sa": "Will you help me"
+  },
+  {
+    "h": "मैं आपकी मदद करूँगा",
+    "e": "I will help you",
+    "c": "Sentences",
+    "s": "i_will_help_you",
+    "sa": "I will help you"
+  },
+  {
+    "h": "चिंता मत कीजिए",
+    "e": "Do not worry",
+    "c": "Sentences",
+    "s": "do_not_worry",
+    "sa": "Do not worry"
+  },
+  {
+    "h": "सब ठीक हो जाएगा",
+    "e": "Everything will be fine",
+    "c": "Sentences",
+    "s": "everything_will_be_fine",
+    "sa": "Everything will be fine"
+  },
+  {
+    "h": "मुझे भारत से प्यार है",
+    "e": "I love India",
+    "c": "Sentences",
+    "s": "i_love_india",
+    "sa": "I love India"
+  },
+  {
+    "h": "मुझे अपनी भाषा से प्यार है",
+    "e": "I love my language",
+    "c": "Sentences",
+    "s": "i_love_my_language",
+    "sa": "I love my language"
+  },
+  {
+    "h": "मुझे गर्व है",
+    "e": "I am proud",
+    "c": "Sentences",
+    "s": "i_am_proud",
+    "sa": "I am proud"
+  },
+  {
+    "h": "यह बहुत सुंदर है",
+    "e": "This is very beautiful",
+    "c": "Sentences",
+    "s": "this_is_very_beautiful",
+    "sa": "This is very beautiful"
+  },
+  {
+    "h": "मौसम अच्छा है",
+    "e": "The weather is nice",
+    "c": "Sentences",
+    "s": "the_weather_is_nice",
+    "sa": "The weather is nice"
+  },
+  {
+    "h": "आज बारिश हो रही है",
+    "e": "It is raining today",
+    "c": "Sentences",
+    "s": "it_is_raining_today",
+    "sa": "It is raining today"
+  },
+  {
+    "h": "मैं स्कूल जाता हूँ",
+    "e": "I go to school",
+    "c": "Sentences",
+    "s": "i_go_to_school",
+    "sa": "I go to school"
+  },
+  {
+    "h": "मैं पढ़ाई करता हूँ",
+    "e": "I am studying",
+    "c": "Sentences",
+    "s": "i_am_studying",
+    "sa": "I am studying"
+  },
+  {
+    "h": "मुझे खेलना पसंद है",
+    "e": "I like to play",
+    "c": "Sentences",
+    "s": "i_like_to_play",
+    "sa": "I like to play"
+  },
+  {
+    "h": "मुझे संगीत पसंद है",
+    "e": "I like music",
+    "c": "Sentences",
+    "s": "i_like_music",
+    "sa": "I like music"
+  },
+  {
+    "h": "क्या आप गा सकते हैं",
+    "e": "Can you sing",
+    "c": "Sentences",
+    "s": "can_you_sing",
+    "sa": "Can you sing"
+  },
+  {
+    "h": "क्या आप नाच सकते हैं",
+    "e": "Can you dance",
+    "c": "Sentences",
+    "s": "can_you_dance",
+    "sa": "Can you dance"
+  },
+  {
+    "h": "मुझे कहानियाँ सुनना पसंद है",
+    "e": "I love listening to stories",
+    "c": "Sentences",
+    "s": "i_love_listening_to_stories",
+    "sa": "I love listening to stories"
+  },
+  {
+    "h": "दादी कहानी सुनाती हैं",
+    "e": "Grandmother tells stories",
+    "c": "Sentences",
+    "s": "grandmother_tells_stories",
+    "sa": "Grandmother tells stories"
+  },
+  {
+    "h": "बच्चे खेल रहे हैं",
+    "e": "The children are playing",
+    "c": "Sentences",
+    "s": "the_children_are_playing",
+    "sa": "The children are playing"
+  },
+  {
+    "h": "पक्षी गा रहे हैं",
+    "e": "The birds are singing",
+    "c": "Sentences",
+    "s": "the_birds_are_singing",
+    "sa": "The birds are singing"
+  },
+  {
+    "h": "सूरज निकल रहा है",
+    "e": "The sun is rising",
+    "c": "Sentences",
+    "s": "the_sun_is_rising",
+    "sa": "The sun is rising"
+  },
+  {
+    "h": "चाँद चमक रहा है",
+    "e": "The moon is shining",
+    "c": "Sentences",
+    "s": "the_moon_is_shining",
+    "sa": "The moon is shining"
+  },
+  {
+    "h": "नदी बह रही है",
+    "e": "The river is flowing",
+    "c": "Sentences",
+    "s": "the_river_is_flowing",
+    "sa": "The river is flowing"
+  },
+  {
+    "h": "फूल खिल रहे हैं",
+    "e": "The flowers are blooming",
+    "c": "Sentences",
+    "s": "the_flowers_are_blooming",
+    "sa": "The flowers are blooming"
+  },
+  {
+    "h": "दीप जल रहा है",
+    "e": "The lamp is burning",
+    "c": "Sentences",
+    "s": "the_lamp_is_burning",
+    "sa": "The lamp is burning"
+  },
+  {
+    "h": "दरवाज़ा खुला है",
+    "e": "The door is open",
+    "c": "Sentences",
+    "s": "the_door_is_open",
+    "sa": "The door is open"
+  },
+  {
+    "h": "खाना तैयार है",
+    "e": "The food is ready",
+    "c": "Sentences",
+    "s": "the_food_is_ready",
+    "sa": "The food is ready"
+  },
+  {
+    "h": "अंदर आइए",
+    "e": "Please come inside",
+    "c": "Sentences",
+    "s": "please_come_inside",
+    "sa": "Please come inside"
+  },
+  {
+    "h": "बैठिए",
+    "e": "Please sit down",
+    "c": "Sentences",
+    "s": "please_sit_down",
+    "sa": "Please sit down"
+  },
+  {
+    "h": "पानी पीजिए",
+    "e": "Please drink water",
+    "c": "Sentences",
+    "s": "please_drink_water",
+    "sa": "Please drink water"
+  },
+  {
+    "h": "ध्यान से सुनिए",
+    "e": "Listen carefully",
+    "c": "Sentences",
+    "s": "listen_carefully",
+    "sa": "Listen carefully"
+  },
+  {
+    "h": "धीरे चलिए",
+    "e": "Walk slowly",
+    "c": "Sentences",
+    "s": "walk_slowly",
+    "sa": "Walk slowly"
+  },
+  {
+    "h": "जल्दी आइए",
+    "e": "Come quickly",
+    "c": "Sentences",
+    "s": "come_quickly",
+    "sa": "Come quickly"
+  },
+  {
+    "h": "यहाँ आइए",
+    "e": "Come here",
+    "c": "Sentences",
+    "s": "come_here",
+    "sa": "Come here"
+  },
+  {
+    "h": "वहाँ जाइए",
+    "e": "Go there",
+    "c": "Sentences",
+    "s": "go_there",
+    "sa": "Go there"
+  },
+  {
+    "h": "रुकिए",
+    "e": "Please stop",
+    "c": "Sentences",
+    "s": "please_stop",
+    "sa": "Please stop"
+  },
+  {
+    "h": "देखिए",
+    "e": "Please look",
+    "c": "Sentences",
+    "s": "please_look",
+    "sa": "Please look"
+  },
+  {
+    "h": "सत्य बोलो",
+    "e": "Speak the truth",
+    "c": "Wisdom",
+    "s": "speak_the_truth",
+    "sa": "Speak the truth"
+  },
+  {
+    "h": "सत्यमेव जयते",
+    "e": "Truth alone triumphs",
+    "c": "Wisdom",
+    "s": "truth_alone_triumphs",
+    "sa": "Truth alone triumphs"
+  },
+  {
+    "h": "अतिथि देवो भव",
+    "e": "The guest is like God",
+    "c": "Wisdom",
+    "s": "the_guest_is_like_god",
+    "sa": "The guest is like God"
+  },
+  {
+    "h": "विद्या धन है",
+    "e": "Knowledge is wealth",
+    "c": "Wisdom",
+    "s": "knowledge_is_wealth",
+    "sa": "Knowledge is wealth"
+  },
+  {
+    "h": "ज्ञान शक्ति है",
+    "e": "Knowledge is power",
+    "c": "Wisdom",
+    "s": "knowledge_is_power",
+    "sa": "Knowledge is power"
+  },
+  {
+    "h": "समय बलवान है",
+    "e": "Time is powerful",
+    "c": "Wisdom",
+    "s": "time_is_powerful",
+    "sa": "Time is powerful"
+  },
+  {
+    "h": "समय का मूल्य समझो",
+    "e": "Value your time",
+    "c": "Wisdom",
+    "s": "value_your_time",
+    "sa": "Value your time"
+  },
+  {
+    "h": "जीवन अनमोल है",
+    "e": "Life is precious",
+    "c": "Wisdom",
+    "s": "life_is_precious",
+    "sa": "Life is precious"
+  },
+  {
+    "h": "परिश्रम का फल मीठा होता है",
+    "e": "The fruit of hard work is sweet",
+    "c": "Wisdom",
+    "s": "the_fruit_of_hard_work_is_sweet",
+    "sa": "The fruit of hard work is sweet"
+  },
+  {
+    "h": "धैर्य रखो",
+    "e": "Be patient",
+    "c": "Wisdom",
+    "s": "be_patient",
+    "sa": "Be patient"
+  },
+  {
+    "h": "आशा मत छोड़ो",
+    "e": "Do not lose hope",
+    "c": "Wisdom",
+    "s": "do_not_lose_hope",
+    "sa": "Do not lose hope"
+  },
+  {
+    "h": "दूसरों की मदद करो",
+    "e": "Help others",
+    "c": "Wisdom",
+    "s": "help_others",
+    "sa": "Help others"
+  },
+  {
+    "h": "बड़ों का सम्मान करो",
+    "e": "Respect your elders",
+    "c": "Wisdom",
+    "s": "respect_your_elders",
+    "sa": "Respect your elders"
+  },
+  {
+    "h": "विनम्र रहो",
+    "e": "Be humble",
+    "c": "Wisdom",
+    "s": "be_humble",
+    "sa": "Be humble"
+  },
+  {
+    "h": "क्षमा करना सीखो",
+    "e": "Learn to forgive",
+    "c": "Wisdom",
+    "s": "learn_to_forgive",
+    "sa": "Learn to forgive"
+  },
+  {
+    "h": "ईमानदारी सबसे अच्छी नीति है",
+    "e": "Honesty is the best policy",
+    "c": "Wisdom",
+    "s": "honesty_is_the_best_policy",
+    "sa": "Honesty is the best policy"
+  },
+  {
+    "h": "एकता में शक्ति है",
+    "e": "There is strength in unity",
+    "c": "Wisdom",
+    "s": "there_is_strength_in_unity",
+    "sa": "There is strength in unity"
+  },
+  {
+    "h": "बूँद बूँद से सागर बनता है",
+    "e": "Drop by drop makes an ocean",
+    "c": "Wisdom",
+    "s": "drop_by_drop_makes_an_ocean",
+    "sa": "Drop by drop makes an ocean"
+  },
+  {
+    "h": "जहाँ चाह वहाँ राह",
+    "e": "Where there is a will there is a way",
+    "c": "Wisdom",
+    "s": "where_there_is_a_will_there_is_a_way",
+    "sa": "Where there is a will there is a way"
+  },
+  {
+    "h": "अभ्यास से सब संभव है",
+    "e": "Practice makes everything possible",
+    "c": "Wisdom",
+    "s": "practice_makes_everything_possible",
+    "sa": "Practice makes everything possible"
+  },
+  {
+    "h": "गिरकर उठना ही जीवन है",
+    "e": "To fall and rise again is life",
+    "c": "Wisdom",
+    "s": "to_fall_and_rise_again_is_life",
+    "sa": "To fall and rise again is life"
+  },
+  {
+    "h": "मन के हारे हार है",
+    "e": "Defeat begins in the mind",
+    "c": "Wisdom",
+    "s": "defeat_begins_in_the_mind",
+    "sa": "Defeat begins in the mind"
+  },
+  {
+    "h": "अतीत से सीखो",
+    "e": "Learn from the past",
+    "c": "Wisdom",
+    "s": "learn_from_the_past",
+    "sa": "Learn from the past"
+  },
+  {
+    "h": "भविष्य की ओर देखो",
+    "e": "Look toward the future",
+    "c": "Wisdom",
+    "s": "look_toward_the_future",
+    "sa": "Look toward the future"
+  },
+  {
+    "h": "प्रकृति की रक्षा करो",
+    "e": "Protect nature",
+    "c": "Wisdom",
+    "s": "protect_nature",
+    "sa": "Protect nature"
+  },
+  {
+    "h": "पेड़ लगाओ",
+    "e": "Plant trees",
+    "c": "Wisdom",
+    "s": "plant_trees",
+    "sa": "Plant trees"
+  },
+  {
+    "h": "पानी बचाओ",
+    "e": "Save water",
+    "c": "Wisdom",
+    "s": "save_water",
+    "sa": "Save water"
+  },
+  {
+    "h": "संस्कृति को जीवित रखो",
+    "e": "Keep culture alive",
+    "c": "Wisdom",
+    "s": "keep_culture_alive",
+    "sa": "Keep culture alive"
+  },
+  {
+    "h": "अपनी भाषा पर गर्व करो",
+    "e": "Be proud of your language",
+    "c": "Wisdom",
+    "s": "be_proud_of_your_language",
+    "sa": "Be proud of your language"
+  },
+  {
+    "h": "भाषा संस्कृति की आत्मा है",
+    "e": "Language is the soul of culture",
+    "c": "Wisdom",
+    "s": "language_is_the_soul_of_culture",
+    "sa": "Language is the soul of culture"
+  },
+  {
+    "h": "हर भाषा अनमोल है",
+    "e": "Every language is priceless",
+    "c": "Wisdom",
+    "s": "every_language_is_priceless",
+    "sa": "Every language is priceless"
+  },
+  {
+    "h": "शब्दों में शक्ति होती है",
+    "e": "Words have power",
+    "c": "Wisdom",
+    "s": "words_have_power",
+    "sa": "Words have power"
+  },
+  {
+    "h": "कहानियाँ हमें जोड़ती हैं",
+    "e": "Stories connect us",
+    "c": "Wisdom",
+    "s": "stories_connect_us",
+    "sa": "Stories connect us"
+  },
+  {
+    "h": "बुजुर्गों की बातें सुनो",
+    "e": "Listen to the elders",
+    "c": "Wisdom",
+    "s": "listen_to_the_elders",
+    "sa": "Listen to the elders"
+  },
+  {
+    "h": "अगली पीढ़ी के लिए सोचो",
+    "e": "Think of the next generation",
+    "c": "Wisdom",
+    "s": "think_of_the_next_generation",
+    "sa": "Think of the next generation"
+  },
+  {
+    "h": "एक बार की बात है",
+    "e": "Once upon a time",
+    "c": "Stories",
+    "s": "once_upon_a_time",
+    "sa": "Once upon a time"
+  },
+  {
+    "h": "पहाड़ों के बीच एक छोटा सा गाँव था",
+    "e": "There was a small village among the mountains",
+    "c": "Stories",
+    "s": "there_was_a_small_village_among_the_mountains",
+    "sa": "There was a small village among the mountains"
+  },
+  {
+    "h": "उस गाँव में एक बुज़ुर्ग महिला रहती थी",
+    "e": "An elderly woman lived in that village",
+    "c": "Stories",
+    "s": "an_elderly_woman_lived_in_that_village",
+    "sa": "An elderly woman lived in that village"
+  },
+  {
+    "h": "वह अपनी पुरानी भाषा बोलती थी",
+    "e": "She spoke her old language",
+    "c": "Stories",
+    "s": "she_spoke_her_old_language",
+    "sa": "She spoke her old language"
+  },
+  {
+    "h": "उसकी कहानियाँ बहुत सुंदर थीं",
+    "e": "Her stories were very beautiful",
+    "c": "Stories",
+    "s": "her_stories_were_very_beautiful",
+    "sa": "Her stories were very beautiful"
+  },
+  {
+    "h": "लेकिन अब कोई सुनने वाला नहीं था",
+    "e": "But now there was no one to listen",
+    "c": "Stories",
+    "s": "but_now_there_was_no_one_to_listen",
+    "sa": "But now there was no one to listen"
+  },
+  {
+    "h": "बच्चे शहर चले गए थे",
+    "e": "The children had moved to the city",
+    "c": "Stories",
+    "s": "the_children_had_moved_to_the_city",
+    "sa": "The children had moved to the city"
+  },
+  {
+    "h": "उसकी भाषा धीरे धीरे खो रही थी",
+    "e": "Her language was slowly being lost",
+    "c": "Stories",
+    "s": "her_language_was_slowly_being_lost",
+    "sa": "Her language was slowly being lost"
+  },
+  {
+    "h": "एक दिन एक छोटा रोबोट गाँव आया",
+    "e": "One day a small robot came to the village",
+    "c": "Stories",
+    "s": "one_day_a_small_robot_came_to_the_village",
+    "sa": "One day a small robot came to the village"
+  },
+  {
+    "h": "उसका नाम भाषा सेतु था",
+    "e": "Its name was BhashaSetu",
+    "c": "Stories",
+    "s": "its_name_was_bhashasetu",
+    "sa": "Its name was BhashaSetu"
+  },
+  {
+    "h": "रोबोट ने कहा मुझे एक कहानी सुनाइए",
+    "e": "The robot said tell me a story",
+    "c": "Stories",
+    "s": "the_robot_said_tell_me_a_story",
+    "sa": "The robot said tell me a story"
+  },
+  {
+    "h": "महिला मुस्कुराई और बोलने लगी",
+    "e": "The woman smiled and began to speak",
+    "c": "Stories",
+    "s": "the_woman_smiled_and_began_to_speak",
+    "sa": "The woman smiled and began to speak"
+  },
+  {
+    "h": "रोबोट ने हर शब्द रिकॉर्ड किया",
+    "e": "The robot recorded every word",
+    "c": "Stories",
+    "s": "the_robot_recorded_every_word",
+    "sa": "The robot recorded every word"
+  },
+  {
+    "h": "अब उसकी कहानियाँ हमेशा जीवित रहेंगी",
+    "e": "Now her stories will live forever",
+    "c": "Stories",
+    "s": "now_her_stories_will_live_forever",
+    "sa": "Now her stories will live forever"
+  },
+  {
+    "h": "भाषा बच गई और गाँव खुश हुआ",
+    "e": "The language was saved and the village rejoiced",
+    "c": "Stories",
+    "s": "the_language_was_saved_and_the_village_rejoiced",
+    "sa": "The language was saved and the village rejoiced"
+  },
+  {
+    "h": "महाराष्ट्र के जंगलों में वारली लोग रहते हैं",
+    "e": "The Warli people live in the forests of Maharashtra",
+    "c": "Stories",
+    "s": "the_warli_people_live_in_the_forests_of_maharashtra",
+    "sa": "The Warli people live in the forests of Maharashtra"
+  },
+  {
+    "h": "वे मिट्टी के घरों की दीवारों पर चित्र बनाते हैं",
+    "e": "They paint pictures on the walls of mud houses",
+    "c": "Stories",
+    "s": "they_paint_pictures_on_the_walls_of_mud_houses",
+    "sa": "They paint pictures on the walls of mud houses"
+  },
+  {
+    "h": "सफेद रंग से त्रिभुज और वृत्त बनते हैं",
+    "e": "Triangles and circles are made with white color",
+    "c": "Stories",
+    "s": "triangles_and_circles_are_made_with_white_color",
+    "sa": "Triangles and circles are made with white color"
+  },
+  {
+    "h": "हर चित्र एक कहानी कहता है",
+    "e": "Every painting tells a story",
+    "c": "Stories",
+    "s": "every_painting_tells_a_story",
+    "sa": "Every painting tells a story"
+  },
+  {
+    "h": "एक युवा लड़की ने अपनी दादी से पूछा",
+    "e": "A young girl asked her grandmother",
+    "c": "Stories",
+    "s": "a_young_girl_asked_her_grandmother",
+    "sa": "A young girl asked her grandmother"
+  },
+  {
+    "h": "ये चित्र क्या कहते हैं",
+    "e": "What do these paintings say",
+    "c": "Stories",
+    "s": "what_do_these_paintings_say",
+    "sa": "What do these paintings say"
+  },
+  {
+    "h": "दादी ने कहा ये हमारे पूर्वजों की आवाज़ हैं",
+    "e": "Grandmother said these are the voices of our ancestors",
+    "c": "Stories",
+    "s": "grandmother_said_these_are_the_voices_of_our_ancestors",
+    "sa": "Grandmother said these are the voices of our ancestors"
+  },
+  {
+    "h": "ये फसल और बारिश की कहानियाँ हैं",
+    "e": "These are stories of harvest and rain",
+    "c": "Stories",
+    "s": "these_are_stories_of_harvest_and_rain",
+    "sa": "These are stories of harvest and rain"
+  },
+  {
+    "h": "ये तारपा नृत्य की खुशी दिखाते हैं",
+    "e": "They show the joy of the Tarpa dance",
+    "c": "Stories",
+    "s": "they_show_the_joy_of_the_tarpa_dance",
+    "sa": "They show the joy of the Tarpa dance"
+  },
+  {
+    "h": "लड़की ने चित्र बनाना सीखा",
+    "e": "The girl learned to paint",
+    "c": "Stories",
+    "s": "the_girl_learned_to_paint",
+    "sa": "The girl learned to paint"
+  },
+  {
+    "h": "उसने अपने चित्रों में नई कहानियाँ जोड़ीं",
+    "e": "She added new stories to her paintings",
+    "c": "Stories",
+    "s": "she_added_new_stories_to_her_paintings",
+    "sa": "She added new stories to her paintings"
+  },
+  {
+    "h": "परंपरा एक पीढ़ी से दूसरी पीढ़ी तक चली",
+    "e": "The tradition passed from one generation to the next",
+    "c": "Stories",
+    "s": "the_tradition_passed_from_one_generation_to_the_next",
+    "sa": "The tradition passed from one generation to the next"
+  },
+  {
+    "h": "कला कभी नहीं मरती",
+    "e": "Art never dies",
+    "c": "Stories",
+    "s": "art_never_dies",
+    "sa": "Art never dies"
+  },
+  {
+    "h": "एक गाँव के पास एक सुंदर नदी बहती थी",
+    "e": "A beautiful river flowed near a village",
+    "c": "Stories",
+    "s": "a_beautiful_river_flowed_near_a_village",
+    "sa": "A beautiful river flowed near a village"
+  },
+  {
+    "h": "गाँव के लोग नदी से पानी लेते थे",
+    "e": "The village people took water from the river",
+    "c": "Stories",
+    "s": "the_village_people_took_water_from_the_river",
+    "sa": "The village people took water from the river"
+  },
+  {
+    "h": "किसान अपने खेतों को सींचते थे",
+    "e": "The farmers watered their fields",
+    "c": "Stories",
+    "s": "the_farmers_watered_their_fields",
+    "sa": "The farmers watered their fields"
+  },
+  {
+    "h": "बच्चे नदी के किनारे खेलते थे",
+    "e": "The children played by the riverbank",
+    "c": "Stories",
+    "s": "the_children_played_by_the_riverbank",
+    "sa": "The children played by the riverbank"
+  },
+  {
+    "h": "एक साल बारिश नहीं हुई",
+    "e": "One year it did not rain",
+    "c": "Stories",
+    "s": "one_year_it_did_not_rain",
+    "sa": "One year it did not rain"
+  },
+  {
+    "h": "नदी सूखने लगी",
+    "e": "The river began to dry",
+    "c": "Stories",
+    "s": "the_river_began_to_dry",
+    "sa": "The river began to dry"
+  },
+  {
+    "h": "गाँव के बुज़ुर्ग ने सबको बुलाया",
+    "e": "The village elder called everyone",
+    "c": "Stories",
+    "s": "the_village_elder_called_everyone",
+    "sa": "The village elder called everyone"
+  },
+  {
+    "h": "उन्होंने कहा हमें मिलकर काम करना होगा",
+    "e": "He said we must work together",
+    "c": "Stories",
+    "s": "he_said_we_must_work_together",
+    "sa": "He said we must work together"
+  },
+  {
+    "h": "सबने मिलकर तालाब खोदा",
+    "e": "Everyone dug a pond together",
+    "c": "Stories",
+    "s": "everyone_dug_a_pond_together",
+    "sa": "Everyone dug a pond together"
+  },
+  {
+    "h": "सबने पेड़ लगाए",
+    "e": "Everyone planted trees",
+    "c": "Stories",
+    "s": "everyone_planted_trees",
+    "sa": "Everyone planted trees"
+  },
+  {
+    "h": "अगले साल खूब बारिश हुई",
+    "e": "The next year it rained a lot",
+    "c": "Stories",
+    "s": "the_next_year_it_rained_a_lot",
+    "sa": "The next year it rained a lot"
+  },
+  {
+    "h": "नदी फिर से बहने लगी",
+    "e": "The river began to flow again",
+    "c": "Stories",
+    "s": "the_river_began_to_flow_again",
+    "sa": "The river began to flow again"
+  },
+  {
+    "h": "तीन दोस्तों ने एक रोबोट बनाया",
+    "e": "Three friends built a robot",
+    "c": "Stories",
+    "s": "three_friends_built_a_robot",
+    "sa": "Three friends built a robot"
+  },
+  {
+    "h": "रोबोट का आकार एक पीतल की लालटेन जैसा था",
+    "e": "The robot was shaped like a brass lantern",
+    "c": "Stories",
+    "s": "the_robot_was_shaped_like_a_brass_lantern",
+    "sa": "The robot was shaped like a brass lantern"
+  },
+  {
+    "h": "उसका काम था भाषाओं को बचाना",
+    "e": "Its job was to save languages",
+    "c": "Stories",
+    "s": "its_job_was_to_save_languages",
+    "sa": "Its job was to save languages"
+  },
+  {
+    "h": "रोबोट गाँव गाँव घूमता था",
+    "e": "The robot traveled from village to village",
+    "c": "Stories",
+    "s": "the_robot_traveled_from_village_to_village",
+    "sa": "The robot traveled from village to village"
+  },
+  {
+    "h": "वह बुज़ुर्गों के पास जाकर रुकता था",
+    "e": "It would stop near the elders",
+    "c": "Stories",
+    "s": "it_would_stop_near_the_elders",
+    "sa": "It would stop near the elders"
+  },
+  {
+    "h": "वह कहता था नमस्ते मैं सुन रहा हूँ",
+    "e": "It would say hello I am listening",
+    "c": "Stories",
+    "s": "it_would_say_hello_i_am_listening",
+    "sa": "It would say hello I am listening"
+  },
+  {
+    "h": "लोग उसे अपनी कहानियाँ सुनाते थे",
+    "e": "People told it their stories",
+    "c": "Stories",
+    "s": "people_told_it_their_stories",
+    "sa": "People told it their stories"
+  },
+  {
+    "h": "वह गीत और लोरियाँ रिकॉर्ड करता था",
+    "e": "It recorded songs and lullabies",
+    "c": "Stories",
+    "s": "it_recorded_songs_and_lullabies",
+    "sa": "It recorded songs and lullabies"
+  },
+  {
+    "h": "जब कोई थक जाता तो वह कहता",
+    "e": "When someone got tired it would say",
+    "c": "Stories",
+    "s": "when_someone_got_tired_it_would_say",
+    "sa": "When someone got tired it would say"
+  },
+  {
+    "h": "धीरे धीरे उसने सैकड़ों आवाज़ें इकट्ठी कीं",
+    "e": "Slowly it collected hundreds of voices",
+    "c": "Stories",
+    "s": "slowly_it_collected_hundreds_of_voices",
+    "sa": "Slowly it collected hundreds of voices"
+  },
+  {
+    "h": "हर आवाज़ एक खज़ाना थी",
+    "e": "Every voice was a treasure",
+    "c": "Stories",
+    "s": "every_voice_was_a_treasure",
+    "sa": "Every voice was a treasure"
+  },
+  {
+    "h": "बच्चों ने उन आवाज़ों से अपनी भाषा सीखी",
+    "e": "The children learned their language from those voices",
+    "c": "Stories",
+    "s": "the_children_learned_their_language_from_those_voices",
+    "sa": "The children learned their language from those voices"
+  },
+  {
+    "h": "इस तरह भाषा सेतु ने अतीत और भविष्य को जोड़ा",
+    "e": "In this way BhashaSetu connected the past and the future",
+    "c": "Stories",
+    "s": "in_this_way_bhashasetu_connected_the_past_and_the_future",
+    "sa": "In this way BhashaSetu connected the past and the future"
+  }
+]
