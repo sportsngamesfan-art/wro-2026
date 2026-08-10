@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bhashasetu-robot"
+version = "1.0.0"
+description = "BhashaSetu: Bridge of Languages - Autonomous Mobile Robot for Language Preservation"
+authors = [
+    { name = "Heritage Hackers", email = "team@bhashasetu.com" }
+]
+
+[tool.vercel]
+# This repository contains BOTH a Next.js website AND Python robot code
+# Vercel should deploy the Next.js website, not the Python code
+# The Python code is managed separately and not exposed via Vercel Functions
+exclude = ["src/**", "tests/**", "requirements.txt"]
+
+# Build configuration tells Vercel to skip Python detection
+framework = "nextjs"

@@ -1,12 +1,41 @@
+# Git and version control
 .git
 .gitignore
-README.md
-WEBSITE_README.md
-DEPLOYMENT_GUIDE.md
+.github/
+
+# Robot Python Project (separate from Next.js website)
 src/
 tests/
 docs/
+requirements.txt
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Documentation
+README.md
+WEBSITE_README.md
+DEPLOYMENT_GUIDE.md
+DEPLOYMENT_CHECKLIST.md
+
+# Environment and local files
+.env
 .env.local
 .env.development.local
+.env.production.local
 .DS_Store
 *.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+build/
+dist/
+*.egg
