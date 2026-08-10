@@ -1,0 +1,12 @@
+.git
+.gitignore
+README.md
+WEBSITE_README.md
+DEPLOYMENT_GUIDE.md
+src/
+tests/
+docs/
+.env.local
+.env.development.local
+.DS_Store
+*.log
